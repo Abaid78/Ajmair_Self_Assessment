@@ -1,0 +1,33 @@
+.correct_class {
+  color: red;
+}
+
+.fade-enter {
+  opacity: 0;
+  transform: scale(0.9);
+}
+.fade-enter-active {
+  opacity: 1;
+  transform: scale(1);
+  transition: opacity 300ms, transform 300ms;
+}
+.fade-exit {
+  opacity: 1;
+  transform: scale(1);
+}
+.fade-exit-active {
+  opacity: 0;
+  transform: scale(0.9);
+  transition: opacity 300ms, transform 300ms;
+}
+.explanation {
+  opacity: 1;
+  background-color: rgb(54, 54, 54);
+  padding: 6px;
+}
+li:hover {
+  cursor: pointer;
+} /*.fade-enter: Applied at the start of the enter transition. start from 0 values
+.fade-enter-active: Applied during the enter transition.  move 0 to 123
+.fade-exit: Applied at the start of the exit transition. 
+.fade-exit-active: Applied during the exit transition.    again set  0*/
