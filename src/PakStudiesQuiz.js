@@ -711,4 +711,516 @@ export const Pak_StudiesQuizData = [
       ur: "بنگال کی تقسیم 16 اکتوبر 1905 کو لارڈ کرزن نے اعلان کی تھی۔ اس تقسیم نے بنگال کو مشرقی بنگال (دارالحکومت ڈھاکہ) اور مغربی بنگال (دارالحکومت کولکتہ) میں تقسیم کر دیا، جس کا مقصد انتظامی کارکردگی کو بہتر بنانا تھا لیکن اس نے سیاسی بدامنی کو بھی جنم دیا۔",
     },
   },
+  {
+    id: "61",
+    question: "When did Quaid-e-Azam join the Muslim League?",
+    options: ["1912", "1913", "1914", "1915"],
+    answer: "1913",
+    explanation: {
+      en: "Quaid-e-Azam Muhammad Ali Jinnah joined the All India Muslim League in 1913. He became the president of the League in 1916. Jinnah played a crucial role in the political struggle of Muslims in India, ultimately leading to the creation of Pakistan in 1947.",
+      ur: "قائداعظم محمد علی جناح 1913 میں آل انڈیا مسلم لیگ میں شامل ہوئے۔ وہ 1916 میں لیگ کے صدر بنے۔ جناح نے ہندوستان میں مسلمانوں کی سیاسی جدوجہد میں اہم کردار ادا کیا، جو بالآخر 1947 میں پاکستان کے قیام کا باعث بنا۔",
+    },
+  },
+  {
+    id: "62",
+    question: "When was Anjuman-e-Tarakki-i-Urdu established?",
+    options: ["1601", "1902", "1903", "1604"],
+    answer: "1903",
+    explanation: {
+      en: "Sir Syed founded the Anjuman Taraqqi-i-Urdu in 1903 in Aligarh with Thomas Walker Arnold as its first president and Shibli Nomani as the first secretary. ",
+      ur: "سر سید نے 1903 میں علی گڑھ میں انجمن ترقی اردو کی بنیاد رکھی جس کے پہلے صدر تھامس واکر آرنلڈ تھے اور شبلی نعمانی پہلے سیکرٹری تھے۔",
+    },
+  },
+  {
+    id: "63",
+    question: "When was the Shimla Delegation?",
+    options: ["1904", "1905", "1906", "1907"],
+    answer: "1906",
+    explanation: {
+      en: "The Shimla Delegation, led by Sir Agha Khan, took place on 1st October 1906. It consisted of 35 members who met with the Viceroy of India to present the demands of the Muslim community, leading to the formation of the All India Muslim League.",
+      ur: "شملہ وفد، جس کی قیادت سر آغا خان کر رہے تھے، 1 اکتوبر 1906 کو منعقد ہوا۔ اس میں 35 اراکین شامل تھے جنہوں نے ہندوستان کے وائسرائے سے ملاقات کی اور مسلم برادری کے مطالبات پیش کیے، جس کے نتیجے میں آل انڈیا مسلم لیگ کی تشکیل ہوئی۔",
+    },
+  },
+  {
+    id: "64",
+    question: "When did the Khilafat Movement start?",
+    options: ["1917", "1918", "1919", "1920"],
+    answer: "1919",
+    explanation: {
+      en: "The Khilafat Movement was initiated in 1919 by Maulana Shaukat Ali and Maulana Johar Ali. It aimed to support the Ottoman Caliphate and oppose the British decision to abolish it after World War I. The movement also sought to unite Muslims in India against colonial rule.",
+      ur: "خلافت تحریک 1919 میں مولانا شوکت علی اور مولانا جوہر علی نے شروع کی۔ اس کا مقصد عثمانی خلافت کی حمایت کرنا اور پہلی جنگ عظیم کے بعد اسے ختم کرنے کے برطانوی فیصلے کی مخالفت کرنا تھا۔ تحریک کا مقصد ہندوستان میں مسلمانوں کو نوآبادیاتی حکمرانی کے خلاف متحد کرنا بھی تھا۔",
+    },
+  },
+  {
+    id: "65",
+    question: "When did the Jallianwala Bagh tragedy occur?",
+    options: ["1918", "1919", "1920", "1921"],
+    answer: "1919",
+    explanation: {
+      en: "The Jallianwala Bagh tragedy also known as the Amritsar massacre ,occurred on 13th April 1919, when British troops opened fire on a peaceful gathering in Amritsar, killing 379 people. This event marked a significant turning point in the Indian independence movement, intensifying anti-British sentiments.",
+      ur: "جلیانوالہ باغ سانحہ جسے امرتسر قتل عام بھی کہا جاتا ہے، 13 اپریل 1919 کو پیش آیا، جب برطانوی فوجیوں نے امرتسر میں ایک پرامن اجتماع پر فائرنگ کی، جس میں 379 افراد ہلاک ہوئے۔ اس واقعہ نے ہندوستان کی تحریک آزادی میں ایک اہم موڑ کا نشان لگایا، جس سے برطانوی مخالف جذبات میں شدت آئی۔",
+    },
+  },
+  {
+    id: "66",
+    question: "When was the Nehru Report published?",
+    options: ["1926", "1927", "1928", "1929"],
+    answer: "1928",
+    explanation: {
+      en: "The Nehru Report was published in 1928 and was chaired by Motilal Nehru. It outlined a proposed constitution for India, recommending dominion status within the British Empire. The report was significant as it rejected separate electorates for Muslims, leading to opposition from the Muslim League.",
+      ur: "نہرو رپورٹ 1928 میں شائع ہوئی اور اس کی صدارت موتی لال نہرو نے کی۔ اس میں ہندوستان کے لیے ایک تجویز کردہ آئین کا خاکہ پیش کیا گیا، جس میں برطانوی سلطنت کے اندر ڈومینین کا درجہ تجویز کیا گیا تھا۔ رپورٹ اہم تھی کیونکہ اس نے مسلمانوں کے لیے الگ انتخابی حلقوں کو مسترد کر دیا، جس کی وجہ سے مسلم لیگ کی جانب سے مخالفت کی گئی۔",
+    },
+  },
+  {
+    id: "67",
+    question: "When was the Simon Commission formed?",
+    options: ["1926", "1927", "1928", "1929"],
+    answer: "1928",
+    explanation: {
+      en: "The Simon Commission was formed in 1928 by the British government to review the political situation in India and suggest constitutional reforms. The commission faced widespread opposition in India as it did not include any Indian members, leading to protests and the slogan 'Simon Go Back'.",
+      ur: "سائمن کمیشن 1928 میں برطانوی حکومت نے ہندوستان کی سیاسی صورتحال کا جائزہ لینے اور آئینی اصلاحات کی تجاویز دینے کے لیے تشکیل دیا تھا۔ کمیشن کو ہندوستان میں وسیع پیمانے پر مخالفت کا سامنا کرنا پڑا کیونکہ اس میں کوئی ہندوستانی رکن شامل نہیں تھا، جس کے نتیجے میں احتجاج اور نعرہ 'سائمن واپس جاؤ' کا سامنا کرنا پڑا۔",
+    },
+  },
+  {
+    id: "68",
+    question:
+      "Who presided over the annual session of the Muslim League in 1930?",
+    options: [
+      "Muhammad Ali Jinnah",
+      "Allama Iqbal",
+      "Maulana Shaukat Ali",
+      "Sir Agha Khan",
+    ],
+    answer: "Allama Iqbal",
+    explanation: {
+      en: "Allama Iqbal presided over the annual session of the Muslim League in 1930 in Allahabad. In his famous address, Iqbal outlined his vision for an independent Muslim state in north-western India, which later inspired the creation of Pakistan.",
+      ur: "علامہ اقبال نے 1930 میں اللہ آباد میں مسلم لیگ کے سالانہ اجلاس کی صدارت کی۔ اپنے مشہور خطاب میں، اقبال نے ہندوستان کے شمال مغربی حصے میں ایک آزاد مسلم ریاست کے اپنے وژن کا خاکہ پیش کیا، جس نے بعد میں پاکستان کے قیام کو متاثر کیا۔",
+    },
+  },
+  {
+    id: "69",
+    question: "When were the Round Table Conferences held?",
+    options: ["1929-1931", "1930-1932", "1931-1933", "1932-1934"],
+    answer: "1930-1932",
+    explanation: {
+      en: "The Round Table Conferences were a series of three conferences held in London in 1930, 1931, and 1932. These conferences aimed to discuss constitutional reforms in India. Maulana Johar Ali died during the second conference, and Quaid-e-Azam did not participate in the third conference.",
+      ur: "گول میز کانفرنسیں 1930، 1931، اور 1932 میں لندن میں منعقد ہونے والی تین کانفرنسوں کی ایک سیریز تھیں۔ ان کانفرنسوں کا مقصد ہندوستان میں آئینی اصلاحات پر بات چیت کرنا تھا۔ مولانا جوہر علی دوسری کانفرنس کے دوران انتقال کر گئے، اور قائداعظم نے تیسری کانفرنس میں حصہ نہیں لیا۔",
+    },
+  },
+  {
+    id: "70",
+    question: "When did MacDonald announce the communal award?",
+    options: [
+      "15th August 1932",
+      "16th August 1932",
+      "17th August 1932",
+      "18th August 1932",
+    ],
+    answer: "16th August 1932",
+    explanation: {
+      en: "MacDonald announced the communal award on 16th August 1932. This award aimed to provide separate electorates for different religious and social groups in India, which intensified communal divisions and was opposed by many Indian leaders.",
+      ur: "میکڈونلڈ نے 16 اگست 1932 کو کمیونل ایوارڈ کا اعلان کیا۔ اس ایوارڈ کا مقصد ہندوستان میں مختلف مذہبی اور سماجی گروپوں کے لیے الگ الگ انتخابی حلقے فراہم کرنا تھا، جس سے فرقہ وارانہ تقسیم میں شدت آئی اور اسے کئی ہندوستانی رہنماؤں نے مسترد کر دیا۔",
+    },
+  },
+  {
+    id: "71",
+    question:
+      "Which Act was announced by the British Government in July, 1935?",
+    options: [
+      "Government of India Act",
+      "Indian Independence Act",
+      "Regulating",
+      "Pitt's India Act",
+    ],
+    answer: "Government of India Act",
+    explanation: {
+      en: "The Government of India Act, 1935, announced by the British Government in July 1935, was the longest act passed by the British Parliament at the time. It contained 14 parts and 10 schedules, and it laid down the framework for the governance of British India.",
+      ur: "گورنمنٹ آف انڈیا ایکٹ 1935، جو برطانوی حکومت نے جولائی 1935 میں اعلان کیا، اس وقت برطانوی پارلیمنٹ کی طرف سے پاس کیا گیا سب سے طویل ایکٹ تھا۔ اس میں 14 حصے اور 10 شیڈول شامل تھے، اور اس نے برطانوی ہندوستان کی حکومت کے لیے فریم ورک وضع کیا۔",
+    },
+  },
+  {
+    id: "72",
+    question: "How many seats did the Muslim League win in the 1937 elections?",
+    options: ["108", "75", "150", "109"],
+    answer: "109",
+    explanation: {
+      en: "In the 1937 elections, the Muslim League won a total of 109 seats. These elections were a significant moment for the Muslim League, which sought to establish itself as a dominant political force representing Muslim interests in British India.",
+      ur: "1937 کے انتخابات میں، مسلم لیگ نے کل 109 نشستیں جیتیں۔ یہ انتخابات مسلم لیگ کے لیے ایک اہم لمحہ تھے، جو برطانوی ہندوستان میں مسلم مفادات کی نمائندگی کرنے والی ایک غالب سیاسی قوت کے طور پر خود کو قائم کرنے کی کوشش کر رہی تھی۔",
+    },
+  },
+  {
+    id: "73",
+    question: "Who wrote Band-e-Matram?",
+    options: [
+      "Bankim Chatterjee",
+      "Rabindranath Tagore",
+      "Chaudhary Rehmat Ali",
+      "Allama Iqbal",
+    ],
+    answer: "Bankim Chatterjee",
+    explanation: {
+      en: "Band-e-Matram was written by Bankim Chatterjee. It was a patriotic song in Bengali, which later became a source of inspiration for the Indian independence movement.",
+      ur: "بندے ماترم بینکیم چٹر جی نے لکھی تھی۔ یہ بنگالی میں ایک محب وطن گیت تھا، جو بعد میں ہندوستانی آزادی کی تحریک کے لیے تحریک کا ذریعہ بن گیا۔",
+    },
+  },
+  {
+    id: "74",
+    question: "Who gave the Fourteen Points?",
+    options: [
+      "Allama Iqbal",
+      "Quaid-e-Azam",
+      "Chaudhary Rehmat Ali",
+      "Molana Shaukat Ali",
+    ],
+    answer: "Quaid-e-Azam",
+    explanation: {
+      en: "The Fourteen Points were given by Quaid-e-Azam in March 1929 in Delhi. These points outlined the basic political demands of Muslims in British India and aimed to protect their political, religious, and cultural rights.",
+      ur: "چودہ نکات قائد اعظم نے مارچ 1929 میں دہلی میں دیے تھے۔ ان نکات میں برطانوی ہندوستان میں مسلمانوں کے بنیادی سیاسی مطالبات کا خاکہ پیش کیا گیا تھا اور ان کے سیاسی، مذہبی اور ثقافتی حقوق کے تحفظ کا مقصد تھا۔",
+    },
+  },
+  {
+    id: "75",
+    question: "Who coined the word 'Pakistan'?",
+    options: [
+      "Quaid-e-Azam",
+      "Sir Syed Ahmad Khan",
+      "Allama Iqbal",
+      "Chaudhary Rehmat Ali",
+    ],
+    answer: "Chaudhary Rehmat Ali",
+    explanation: {
+      en: "The word 'Pakistan' was coined by Chaudhary Rehmat Ali in 1933. It means 'Land of the Pure' and was first used in a pamphlet titled 'Now or Never'.",
+      ur: "لفظ 'پاکستان' 1933 میں چودھری رحمت علی نے دیا تھا۔ اس کا مطلب 'پاک لوگوں کی سرزمین' ہے اور اسے پہلی بار 'ابھی یا کبھی نہیں' کے عنوان سے ایک پمفلٹ میں استعمال کیا گیا تھا۔",
+    },
+  },
+  {
+    id: "76",
+    question: "When were the Congress Ministries formed?",
+    options: ["1937", "1935", "1942", "1940"],
+    answer: "1937",
+    explanation: {
+      en: "The Congress Ministries were formed in 1937 after the elections held under the Government of India Act, 1935. The Indian National Congress won a majority in several provinces and formed ministries.",
+      ur: "کانگریس کی وزارتیں 1937 میں گورنمنٹ آف انڈیا ایکٹ 1935 کے تحت ہونے والے انتخابات کے بعد تشکیل دی گئیں۔ انڈین نیشنل کانگریس نے کئی صوبوں میں اکثریت حاصل کی اور وزارتیں بنائیں۔",
+    },
+  },
+  {
+    id: "77",
+    question: "When did Muslims observe the Day of Deliverance?",
+    options: [
+      "22nd December 1939",
+      "23rd March 1940",
+      "16th August 1942",
+      "1st October 1906",
+    ],
+    answer: "22nd December 1939",
+    explanation: {
+      en: "The 'Day of Deliverance' (Urdu: یوم نجات, romanized: Youm-e-Nijat) was a celebration day marked by the All-India Muslim League and others on 22 December 1939 during the Indian independence movement. It was led by Muslim League president Muhammad Ali Jinnah, and intended to rejoice the resignation of all members of the rival Congress party from provincial and central offices in protest over their not having been consulted over the decision to enter World War II alongside Britain.",
+      ur: "'یوم نجات' (اردو: یوم نجات، رومنائزڈ: یوم نجات) ایک جشن کا دن تھا جسے آل انڈیا مسلم لیگ اور دیگر نے 22 دسمبر 1939 کو ہندوستان کی تحریک آزادی کے دوران منایا تھا۔ اس کی قیادت مسلم لیگ کے صدر محمد علی جناح کر رہے تھے، اور اس کا مقصد حریف کانگریس پارٹی کے تمام اراکین کے صوبائی اور مرکزی دفاتر سے استعفیٰ دینے پر خوشی منانا تھا کیونکہ برطانیہ کے ساتھ دوسری جنگ عظیم میں داخل ہونے کے فیصلے پر ان سے مشاورت نہیں کی گئی تھی۔",
+    },
+  },
+  {
+    id: "78",
+    question: "When was the Lahore Resolution passed?",
+    options: [
+      "23rd March 1940",
+      "16th August 1932",
+      "1st October 1906",
+      "22nd December 1939",
+    ],
+    answer: "23rd March 1940",
+    explanation: {
+      en: "The Lahore Resolution was passed on 23rd March 1940, headed by Quaid-e-Azam. This resolution called for the creation of independent states for Muslims in the north-western and eastern zones of India.",
+      ur: "لاہور قرارداد 23 مارچ 1940 کو قائد اعظم کی سربراہی میں منظور ہوئی۔ اس قرارداد میں ہندوستان کے شمال مغربی اور مشرقی علاقوں میں مسلمانوں کے لیے آزاد ریاستوں کے قیام کا مطالبہ کیا گیا۔",
+    },
+  },
+  {
+    id: "79",
+    question: "Who moved the Pakistan Resolution?",
+    options: [
+      "Fazal-ul-Haq",
+      "Chaudhary Rehmat Ali",
+      "Sir Agha Khan",
+      "Quaid-e-Azam",
+    ],
+    answer: "Fazal-ul-Haq",
+    explanation: {
+      en: "The Pakistan Resolution was moved by Fazal-ul-Haq, who was the Chief Minister of Bengal. This historic resolution laid the foundation for the creation of Pakistan.",
+      ur: "پاکستان قرارداد فضل الحق نے پیش کی، جو بنگال کے وزیر اعلیٰ تھے۔ اس تاریخی قرارداد نے پاکستان کے قیام کی بنیاد رکھی۔",
+    },
+  },
+  {
+    id: "80",
+    question:
+      "How many paragraphs and words were contained in the Pakistan Resolution?",
+    options: [
+      "Four paragraphs and 400 words",
+      "Three paragraphs and 300 words",
+      "Five paragraphs and 500 words",
+      "Two paragraphs and 200 words",
+    ],
+    answer: "Four paragraphs and 400 words",
+    explanation: {
+      en: "The Pakistan Resolution contained four paragraphs and approximately 400 words. This resolution was a pivotal document in the history of Pakistan's independence movement.",
+      ur: "پاکستان قرارداد میں چار پیراگراف اور تقریباً 400 الفاظ شامل تھے۔ یہ قرارداد پاکستان کی آزادی کی تحریک کی تاریخ میں ایک اہم دستاویز تھی۔",
+    },
+  },
+  {
+    id: "81",
+    question: "What was the Cripps Mission?",
+    options: [
+      "1942 under Chairmanship of Stafford Cripps",
+      "1945 under Chairmanship of Lord Wavell",
+      "1946 under Chairmanship of Lord Attlee",
+      "1947 under Chairmanship of Lord Mountbatten",
+    ],
+    answer: "1942 under Chairmanship of Stafford Cripps",
+    explanation: {
+      en: "The Cripps Mission was a British initiative in 1942, led by Sir Stafford Cripps. Its aim was to secure Indian cooperation and support for World War II. The mission proposed granting India dominion status after the war, but it was ultimately rejected by Indian leaders.",
+      ur: "کرپس مشن 1942 میں برطانوی اقدام تھا، جس کی قیادت سر سٹافورڈ کرپس نے کی۔ اس کا مقصد دوسری جنگ عظیم کے لیے ہندوستانی تعاون اور حمایت حاصل کرنا تھا۔ مشن نے جنگ کے بعد ہندوستان کو ڈومینین کا درجہ دینے کی تجویز پیش کی، لیکن بالآخر ہندوستانی رہنماؤں نے اسے مسترد کر دیا۔",
+    },
+  },
+  {
+    id: "82",
+    question: "When was the Simla Conference held?",
+    options: ["1935", "25 June 1945", "1935", "1946"],
+    answer: "25 June 1945",
+    explanation: {
+      en: "The Simla Conference was held in 1945. It was an effort by the British government to discuss Indian self-government and address political disagreements between Indian leaders and the British colonial administration.",
+      ur: "شملہ کانفرنس 1945 میں منعقد ہوئی تھی۔ یہ برطانوی حکومت کی طرف سے ہندوستانی خود حکومت پر بات چیت کرنے اور ہندوستانی رہنماؤں اور برطانوی نوآبادیاتی انتظامیہ کے درمیان سیاسی اختلافات کو حل کرنے کی کوشش تھی۔",
+    },
+  },
+  {
+    id: "83",
+    question: "When was the Wavell Plan announced?",
+    options: [
+      "22nd December, 1939",
+      "16th August, 1946",
+      "23rd March, 1940",
+      "14th June, 1945",
+    ],
+    answer: "14th June, 1945",
+    explanation: {
+      en: "The Wavell Plan was announced on 14th June, 1945. The plan, proposed by the Viceroy of India, Lord Wavell, aimed to resolve political deadlock in India by reconstituting the Executive Council and increasing Indian representation.",
+      ur: "ویول پلان 14 جون 1945 کو اعلان کیا گیا تھا۔ یہ منصوبہ ہندوستان کے وائسرائے لارڈ ویول نے تجویز کیا تھا، جس کا مقصد ایگزیکٹو کونسل کی دوبارہ تشکیل اور ہندوستانی نمائندگی میں اضافہ کر کے ہندوستان میں سیاسی تعطل کو حل کرنا تھا۔",
+    },
+  },
+  {
+    id: "84",
+    question: "When was the Cabinet Mission Plan presented?",
+    options: ["1935", "1945", "1946", "1947"],
+    answer: "1946",
+    explanation: {
+      en: "The Cabinet Mission Plan was presented in 1946, headed by Lord Attlee. The plan aimed to discuss and plan for the transfer of power from British rule to Indian leadership, laying down proposals for India's independence.",
+      ur: "کابینہ مشن پلان 1946 میں پیش کیا گیا، جس کی سربراہی لارڈ ایٹلی کر رہے تھے۔ اس منصوبے کا مقصد برطانوی حکومت سے ہندوستانی قیادت کو اقتدار کی منتقلی کے لیے بات چیت اور منصوبہ بندی کرنا تھا، جو ہندوستان کی آزادی کے لیے تجاویز پیش کرنا تھا۔",
+    },
+  },
+  {
+    id: "85",
+    question: "Who announced the Plan of 3rd June 1947?",
+    options: [
+      "Lord Wavell",
+      "Lord Mountbatten",
+      "Lord Attlee",
+      "Stafford Cripps",
+    ],
+    answer: "Lord Mountbatten",
+    explanation: {
+      en: "The Plan of 3rd June 1947 was announced by Lord Mountbatten. This plan outlined the process for the partition of British India into two independent dominions, India and Pakistan, and was a pivotal step towards independence.",
+      ur: "3 جون 1947 کا منصوبہ لارڈ ماؤنٹ بیٹن نے اعلان کیا تھا۔ اس منصوبے نے برطانوی ہندوستان کو دو آزاد ریاستوں، ہندوستان اور پاکستان، میں تقسیم کرنے کے عمل کا خاکہ پیش کیا، اور یہ آزادی کی طرف ایک اہم قدم تھا۔",
+    },
+  },
+  {
+    id: "86",
+    question:
+      "How many members were in the Punjab Boundary Commission, including the Chairman?",
+    options: ["Five", "Three", "Seven", "Ten"],
+    answer: "Five",
+    explanation: {
+      en: "The Punjab Boundary Commission, established to demarcate the boundaries between India and Pakistan, included a total of five members, including the Chairman. This commission was crucial in determining the territorial limits during the partition of India.",
+      ur: "پنجاب باؤنڈری کمیشن، جو ہندوستان اور پاکستان کے درمیان سرحدوں کا تعین کرنے کے لیے قائم کیا گیا تھا، کل پانچ ارکان پر مشتمل تھا، بشمول چیئرمین۔ یہ کمیشن ہندوستان کی تقسیم کے دوران علاقائی حدود کا تعین کرنے میں اہم تھا۔",
+    },
+  },
+  {
+    id: "87",
+    question: "At the time of creation of Pakistan, what was the cash balance?",
+    options: [
+      "4 billion and 1st installment was paid 200 million",
+      "3 billion and 1st installment was paid 100 million",
+      "5 billion and 1st installment was paid 300 million",
+      "2 billion and 1st installment was paid 50 million",
+    ],
+    answer: "4 billion and 1st installment was paid 200 million",
+    explanation: {
+      en: "At the time of the creation of Pakistan, there was a cash balance of 4 billion rupees. The first installment paid to Pakistan was 200 million rupees, which was crucial for the country's initial financial needs.",
+      ur: "پاکستان کے قیام کے وقت، نقدی کا توازن 4 ارب روپے تھا۔ پاکستان کو ادا کی جانے والی پہلی قسط 200 ملین روپے تھی، جو ملک کی ابتدائی مالی ضروریات کے لیے اہم تھی۔",
+    },
+  },
+  {
+    id: "88",
+    question:
+      "Who was the British Prime Minister at the time of Partition of India?",
+    options: ["Attlee", "Churchill", "Clement Attlee", "Neville Chamberlain"],
+    answer: "Attlee",
+    explanation: {
+      en: "Clement Attlee was the British Prime Minister at the time of the Partition of India in 1947. On February 20, 1947, Attlee announced to Parliament that British rule in India would end by June 1948 at the latest. He also announced the transfer of power to the Indian and Pakistani governments by mid-August 1947",
+      ur: " میں تقسیم ہند کے وقت کلیمنٹ ایٹلی برطانوی وزیر اعظم تھے۔ 20 فروری 1947 کو ایٹلی نے پارلیمنٹ میں اعلان کیا کہ ہندوستان میں برطانوی راج جون 1948 تک ختم ہو جائے گا۔ انہوں نے اگست 1947 کے وسط تک ہندوستان اور پاکستانی حکومتوں کو اقتدار کی منتقلی کا بھی اعلان کیا۔",
+    },
+  },
+  {
+    id: "89",
+    question:
+      "Who was the Secretary of State at the time of Partition of India?",
+    options: [
+      "Lord Wavell",
+      "Lord Mountbatten",
+      "Stafford Cripps",
+      "Lord Listowel",
+    ],
+    answer: "Lord Listowel",
+    explanation: {
+      en: "Lord Listowel was the Secretary of State for India at the time of the partition in 1947. He was responsible for overseeing the transition of power from British rule to the newly independent nations of India and Pakistan.",
+      ur: "1947 میں تقسیم کے وقت لارڈ لسٹوئل ہندوستان کے سیکرٹری آف اسٹیٹ تھے۔ وہ برطانوی حکومت سے نئے آزاد ممالک ہندوستان اور پاکستان کو اقتدار کی منتقلی کی نگرانی کے ذمہ دار تھے۔",
+    },
+  },
+  {
+    id: "90",
+    question: "When did Mountbatten arrive in Delhi?",
+    options: [
+      "1st January, 1947",
+      "22nd March, 1947",
+      "15th August, 1947",
+      "30th June, 1947",
+    ],
+    answer: "22nd March, 1947",
+    explanation: {
+      en: "Mountbatten arrived in Delhi on 22nd March, 1947. He was an officer of the British Navy and was appointed as the last Viceroy of India, tasked with overseeing the transition of power and the partition of India.",
+      ur: "ماؤنٹ بیٹن 22 مارچ 1947 کو دہلی پہنچے۔ وہ برطانوی بحریہ کے افسر تھے اور انہیں ہندوستان کے آخری وائسرائے کے طور پر مقرر کیا گیا تھا، جس کا کام اقتدار کی منتقلی اور ہندوستان کی تقسیم کی نگرانی کرنا تھا۔",
+    },
+  },
+  {
+    id: "91",
+    question: "When was Pakistan created?",
+    options: [
+      "12 a.m. at the night between 14th & 15th August, 1947",
+      "14th August, 1947",
+      "15th August, 1947",
+      "13th August, 1947",
+    ],
+    answer: "12 a.m. at the night between 14th & 15th August, 1947",
+    explanation: {
+      en: "Pakistan was created at 12 a.m. on the night between 14th and 15th August, 1947. This moment marked the end of British colonial rule and the establishment of Pakistan as an independent nation.",
+      ur: "پاکستان 14 اور 15 اگست 1947 کی درمیانی رات کو 12 بجے بنایا گیا۔ یہ لمحہ برطانوی نوآبادیاتی حکمرانی کے خاتمے اور پاکستان کے ایک آزاد قوم کے طور پر قیام کی نشاندہی کرتا ہے۔",
+    },
+  },
+  {
+    id: "92",
+    question: "When did Pakistan become a member of the United Nations?",
+    options: [
+      "15th August, 1947",
+      "1st January, 1948",
+      "30th September, 1947",
+      "14th August, 1948",
+    ],
+    answer: "30th September, 1947",
+    explanation: {
+      en: "Pakistan became a member of the United Nations on 30th September, 1947. This membership marked Pakistan's entry into the international community shortly after its independence.",
+      ur: "پاکستان 30 ستمبر 1947 کو اقوام متحدہ کا رکن بنا۔ یہ رکنیت پاکستان کی آزادی کے فوراً بعد بین الاقوامی برادری میں اس کے داخلے کا نشان ہے۔",
+    },
+  },
+  {
+    id: "93",
+    question: "Which country opposed Pakistan’s entrance into the UNO?",
+    options: ["Iran", "India", "Afghanistan", "Nepal"],
+    answer: "Afghanistan",
+    explanation: {
+      en: "Afghanistan was the country that opposed Pakistan's entrance into the United Nations. This opposition was based on political and regional considerations at the time.",
+      ur: "افغانستان وہ ملک تھا جس نے پاکستان کے اقوام متحدہ میں داخلے کی مخالفت کی۔ یہ مخالفت اس وقت سیاسی اور علاقائی غور و فکر پر مبنی تھی۔",
+    },
+  },
+  {
+    id: "94",
+    question:
+      "When was the first constituent Assembly of Pakistan inaugurated?",
+    options: [
+      "14th August, 1947",
+      "10th August, 1947",
+      "15th August, 1947",
+      "1st September, 1947",
+    ],
+    answer: "10th August, 1947",
+    explanation: {
+      en: "The first constituent Assembly of Pakistan was inaugurated on 10th August, 1947. The assembly consisted of 79 members and was responsible for drafting the constitution of the newly formed state.",
+      ur: "پاکستان کی پہلی دستور ساز اسمبلی کا افتتاح 10 اگست 1947 کو ہوا۔ اسمبلی میں 79 ارکان شامل تھے اور یہ نو تشکیل شدہ ریاست کے آئین کا مسودہ تیار کرنے کی ذمہ دار تھی۔",
+    },
+  },
+  {
+    id: "95",
+    question: "When was the State Bank of Pakistan inaugurated?",
+    options: [
+      "14th August, 1947",
+      "1st July, 1948",
+      "1st January, 1948",
+      "30th September, 1947",
+    ],
+    answer: "1st July, 1948",
+    explanation: {
+      en: "The State Bank of Pakistan was inaugurated on 1st July, 1948 by Quaid-e-Azam. The initial total assets of the bank were 3 crore rupees, marking a significant step in establishing Pakistan's financial infrastructure.",
+      ur: "اسٹیٹ بینک آف پاکستان کا افتتاح 1 جولائی 1948 کو قائد اعظم نے کیا۔ بینک کے ابتدائی کل اثاثے 3 کروڑ روپے تھے، جو پاکستان کے مالیاتی ڈھانچے کے قیام میں ایک اہم قدم کی نشاندہی کرتے ہیں۔",
+    },
+  },
+  {
+    id: "96",
+    question: "When was the Objective Resolution moved?",
+    options: [
+      "1st January 1948",
+      "14th August 1947",
+      "12th March 1949",
+      "30th September 1948",
+    ],
+    answer: "12th March 1949",
+    explanation: {
+      en: "The Objective Resolution was moved on 12th March 1949 by Liaquat Ali Khan. This resolution laid down the principles and guidelines for the constitution of Pakistan, emphasizing the sovereignty of Allah and the democratic ideals of the new state.",
+      ur: "قرار داد مقاصد 12 مارچ 1949 کو لیاقت علی خان نے پیش کی۔ اس قرارداد نے پاکستان کے آئین کے لیے اصول اور رہنما خطوط وضع کیے، اللہ کی حاکمیت اور نئی ریاست کے جمہوری نظریات پر زور دیا۔",
+    },
+  },
+  {
+    id: "97",
+    question: "When did Pakistan become a member of the World Bank?",
+    options: ["1948", "1949", "1950", "1951"],
+    answer: "1950",
+    explanation: {
+      en: "Pakistan became a member of the World Bank in 1950. This membership allowed Pakistan to receive financial and technical assistance for its development projects and economic growth.",
+      ur: "پاکستان 1950 میں ورلڈ بینک کا رکن بنا۔ اس رکنیت نے پاکستان کو اس کے ترقیاتی منصوبوں اور اقتصادی ترقی کے لیے مالی اور تکنیکی مدد حاصل کرنے کی اجازت دی۔",
+    },
+  },
+  {
+    id: "98",
+    question: "When did Liaquat Ali Khan visit the USA?",
+    options: ["1951 (three weeks)", "1947", "1950", "1952"],
+    answer: "1951 (three weeks)",
+    explanation: {
+      en: "Liaquat Ali Khan visited the USA in 1951 for a three-week visit. This visit aimed to strengthen Pakistan's relations with the United States and seek support for economic and development initiatives.",
+      ur: "لیاقت علی خان نے 1951 میں تین ہفتوں کے دوران امریکہ کا دورہ کیا۔ اس دورے کا مقصد پاکستان کے امریکہ کے ساتھ تعلقات مضبوط کرنا اور اقتصادی اور ترقیاتی منصوبوں کے حمایتی حصول کے لیے تھا۔",
+    },
+  },
+  {
+    id: "99",
+    question: "When was the Sindh Tas Agreement/Water Treaty signed?",
+    options: ["1970", "1950", "1960", "1980"],
+    answer: "1960",
+    explanation: {
+      en: "The Sindh Tas Agreement, also known as the Indus Waters Treaty, was signed in 1960. It allocated the waters of the Ravi, Sutlej, and Beas rivers to India, and the waters of the Indus, Jhelum, and Chenab rivers to Pakistan.",
+      ur: "سندھ ٹاس کا معاہدہ، جسے انڈس واٹرز ٹریٹی بھی کہا جاتا ہے، 1960 میں دستخط کیا گیا۔ اس معاہدے نے راوی، ستلج، اور بیاس ندیوں کے پانی کو ہندوستان کو اور سندھ، جہلم، اور چناب ندیوں کے پانی کو پاکستان کودیا تھا۔",
+    },
+  },
+  {
+    id: "100",
+    question: "In which province of Pakistan is there no desert?",
+    options: ["Punjab", "Balochistan", "Sindh", "KPK"],
+    answer: "KPK",
+    explanation: {
+      en: "Khyber Pakhtunkhwa (KPK) is the province of Pakistan where there is no desert. Unlike other provinces like Balochistan, Sindh, and Punjab which have vast desert regions, KPK is characterized by its mountainous terrain.",
+      ur: "خیبر پختونخوا  پاکستان کا صوبہ ہے جہاں کوئی صحرا نہیں ہے۔ دیگر صوبوں جیسے بلوچستان، سندھ، اور پنجاب میں وسیع صحراؤں والے علاقے ہیں، خیبر پختونخوا کی سرحدی سرسبزی اور پہاڑی علاقے سے مشہور ہے۔",
+    },
+  },
 ];
