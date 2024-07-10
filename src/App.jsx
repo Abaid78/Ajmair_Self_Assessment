@@ -4,24 +4,25 @@ import { Pak_StudiesQuizData } from "./PakStudiesQuiz";
 import { QuizData } from "./QuizData";
 import { useState } from "react";
 import MyComponent from "./Components/MyComponent";
+
 function App() {
-  const [QuizDataa, setQuizData] = useState(Pak_StudiesQuizData);
-  console.log(Pak_StudiesQuizData);
-  const handleClick = (componentName) => {
-    setActiveComponent(componentName);
+  const [quizData, setQuizData] = useState(Pak_StudiesQuizData);
+
+  const updateQuizData = (newData) => {
+    setQuizData(newData);
   };
-  function set(value) {
-    setQuizData(value);
-  }
-  console.log("App Component");
+
+  console.log("Current Quiz Data:", quizData);
 
   return (
     <>
       <MyComponent />
-      <button onClick={() => set(QuizData)}>Computer</button>
-      <button onClick={() => set(Pak_StudiesQuizData)}>Pak Studies</button>
-      {QuizDataa.map((quiz) => (
-        <Quiz key={quiz.id} quiz={quiz}></Quiz>
+      <button onClick={() => updateQuizData(QuizData)}>Computer</button>
+      <button onClick={() => updateQuizData(Pak_StudiesQuizData)}>
+        Pak Studies
+      </button>
+      {quizData.map((quiz) => (
+        <Quiz key={quiz.id} quiz={quiz} />
       ))}
     </>
   );
