@@ -1223,4 +1223,1041 @@ export const Pak_StudiesQuizData = [
       ur: "خیبر پختونخوا  پاکستان کا صوبہ ہے جہاں کوئی صحرا نہیں ہے۔ دیگر صوبوں جیسے بلوچستان، سندھ، اور پنجاب میں وسیع صحراؤں والے علاقے ہیں، خیبر پختونخوا کی سرحدی سرسبزی اور پہاڑی علاقے سے مشہور ہے۔",
     },
   },
+  {
+    id: "101",
+    question: "What is the total area of Pakistan?",
+    options: [
+      "7,96,096 sq. Km",
+      "8,00,000 sq. Km",
+      "7,50,000 sq. Km",
+      "7,90,000 sq. Km",
+    ],
+    answer: "7,96,096 sq. Km",
+    explanation: {
+      en: "The total area of Pakistan is 7,96,096 square kilometers, which is equivalent to 3,04,103 square miles. It is the 33rd-largest country in the world by area.",
+      ur: "پاکستان کا کل رقبہ 7,96,096 مربع کلومیٹر ہے، جو کہ 3,04,103 مربع میل کے برابر ہے۔ یہ رقبے کے لحاظ سے دنیا کا 33 واں بڑا ملک ہے۔",
+    },
+  },
+  {
+    id: "102",
+    question: "What is the total area of Punjab?",
+    options: [
+      "2,05,345 sq. Km",
+      "2,00,000 sq. Km",
+      "2,10,000 sq. Km",
+      "2,15,000 sq. Km",
+    ],
+    answer: "2,05,345 sq. Km",
+    explanation: {
+      en: "The total area of Punjab, a province of Pakistan, is 2,05,345 square kilometers. Punjab is the most populous province of Pakistan.",
+      ur: "پاکستان کے صوبہ پنجاب کا کل رقبہ 2,05,345 مربع کلومیٹر ہے۔ پنجاب پاکستان کا سب سے زیادہ آبادی والا صوبہ ہے۔",
+    },
+  },
+  {
+    id: "103",
+    question: "What is the total area of Baluchistan?",
+    options: [
+      "3,50,000 sq. Km",
+      "3,47,190 sq. Km",
+      "3,40,000 sq. Km",
+      "3,60,000 sq. Km",
+    ],
+    answer: "3,47,190 sq. Km",
+    explanation: {
+      en: "The total area of Baluchistan is 3,47,190 square kilometers, making it the largest province by area in Pakistan.",
+      ur: "بلوچستان کا کل رقبہ 3,47,190 مربع کلومیٹر ہے، جو اسے پاکستان کا رقبے کے لحاظ سے سب سے بڑا صوبہ بناتا ہے۔",
+    },
+  },
+  {
+    id: "104",
+    question: "What is the total area of Sindh?",
+    options: [
+      "1,35,000 sq. km",
+      "1,50,000 sq. km",
+      "1,40,914 sq. km",
+      "1,45,000 sq. km",
+    ],
+    answer: "1,40,914 sq. km",
+    explanation: {
+      en: "Sindh's total area is 1,40,914 square kilometers. Sindh is located in the southeastern region of Pakistan and is known for its cultural heritage.",
+      ur: "سندھ کا کل رقبہ 1,40,914 مربع کلومیٹر ہے۔ سندھ پاکستان کے جنوب مشرقی علاقے میں واقع ہے اور اپنی ثقافتی ورثے کے لئے مشہور ہے۔",
+    },
+  },
+  {
+    id: "105",
+    question: "What is the total area of KPK?",
+    options: [
+      "75,000 sq. km",
+      "74,521 sq. km",
+      "70,000 sq. km",
+      "80,000 sq. km",
+    ],
+    answer: "74,521 sq. km",
+    explanation: {
+      en: "The total area of Khyber Pakhtunkhwa (KPK) is 74,521 square kilometers. KPK is known for its mountainous terrain and rich cultural history.",
+      ur: "خیبر پختونخوا کا کل رقبہ 74,521 مربع کلومیٹر ہے۔ خیبر پختونخوا اپنی پہاڑی زمین اور ثقافتی تاریخ کے لئے مشہور ہے۔",
+    },
+  },
+  {
+    id: "106",
+    question: "What is the total area of Azad Kashmir?",
+    options: [
+      "12,000 sq. km",
+      "14,000 sq. km",
+      "13,000 sq. km",
+      "13,297 sq. km",
+    ],
+    answer: "13,297 sq. km",
+    explanation: {
+      en: "Azad Kashmir covers an area of 13,297 square kilometers. It is a self-governing administrative region in Pakistan.",
+      ur: "آزاد کشمیر کا رقبہ 13,297 مربع کلومیٹر ہے۔ یہ پاکستان کا خود مختار انتظامی علاقہ ہے۔",
+    },
+  },
+  {
+    id: "107",
+    question: "What is the area of Islamabad?",
+    options: ["906 sq. km", "1,000 sq. km", "850 sq. km", "950 sq. km"],
+    answer: "906 sq. km",
+    explanation: {
+      en: "Islamabad, the capital city of Pakistan, has an area of 906 square kilometers. It is known for its high standard of living, safety, and abundant greenery.",
+      ur: "اسلام آباد، جو کہ پاکستان کا دارالحکومت ہے، کا رقبہ 906 مربع کلومیٹر ہے۔ یہ اپنی بلند معیار کی زندگی، حفاظت، اور فراوانی سبزے کے لئے مشہور ہے۔",
+    },
+  },
+  {
+    id: "108",
+    question: "What is the area of FATA?",
+    options: [
+      "27,220 sq. km",
+      "28,000 sq. km",
+      "26,000 sq. km",
+      "29,000 sq. km",
+    ],
+    answer: "27,220 sq. km",
+    explanation: {
+      en: "The Federally Administered Tribal Areas (FATA) cover an area of 27,220 square kilometers. FATA has been merged with Khyber Pakhtunkhwa for administrative purposes.",
+      ur: "وفاق کے زیر انتظام قبائلی علاقے (FATA) کا رقبہ 27,220 مربع کلومیٹر ہے۔ انتظامی مقاصد کے لئے FATA کو خیبر پختونخوا میں ضم کیا گیا ہے۔",
+    },
+  },
+  {
+    id: "109",
+    question: "What are the total divisions and districts of Pakistan?",
+    options: [
+      "31 divisions and 136 districts",
+      "30 divisions and 135 districts",
+      "32 divisions and 137 districts",
+      "33 divisions and 138 districts",
+    ],
+    answer: "31 divisions and 136 districts",
+    explanation: {
+      en: "Pakistan is administratively divided into 31 divisions and 136 districts. This structure helps in effective governance and administration of the country.",
+      ur: "پاکستان کو انتظامی طور پر 31 ڈویژنوں اور 136 اضلاع میں تقسیم کیا گیا ہے۔ یہ ساخت ملک کی موثر حکمرانی اور انتظامیہ میں مدد دیتی ہے۔",
+    },
+  },
+  {
+    id: "110",
+    question: "What are the total divisions and districts of Punjab?",
+    options: [
+      "9 divisions and 36 districts",
+      "8 divisions and 35 districts",
+      "10 divisions and 37 districts",
+      "11 divisions and 38 districts",
+    ],
+    answer: "9 divisions and 36 districts",
+    explanation: {
+      en: "Punjab, a province of Pakistan, has 9 divisions and 36 districts. This administrative division aids in the management and development of the province.",
+      ur: "پاکستان کے صوبہ پنجاب میں 9 ڈویژنز اور 36 اضلاع ہیں۔ یہ انتظامی تقسیم صوبے کی انتظامیہ اور ترقی میں مددگار ہے۔",
+    },
+  },
+  {
+    id: "111",
+    question: "What are the total divisions and districts of Sindh?",
+    options: [
+      "7 divisions and 24 districts",
+      "6 divisions and 23 districts",
+      "8 divisions and 25 districts",
+      "9 divisions and 26 districts",
+    ],
+    answer: "7 divisions and 24 districts",
+    explanation: {
+      en: "Sindh province is divided into 7 divisions and 24 districts. This helps in effective local governance and administration.",
+      ur: "سندھ صوبہ 7 ڈویژنوں اور 24 اضلاع میں تقسیم ہے۔ یہ مقامی حکمرانی اور انتظامیہ میں مددگار ہے۔",
+    },
+  },
+  {
+    id: "112",
+    question: "What are the total divisions and districts of KPK?",
+    options: [
+      "7 divisions and 25 districts",
+      "6 divisions and 24 districts",
+      "8 divisions and 26 districts",
+      "9 divisions and 27 districts",
+    ],
+    answer: "7 divisions and 25 districts",
+    explanation: {
+      en: "Khyber Pakhtunkhwa (KPK) is divided into 7 divisions and 25 districts. This division ensures better management and administrative control in the province.",
+      ur: "خیبر پختونخوا (KPK) 7 ڈویژنز اور 25 اضلاع میں تقسیم ہے۔ یہ تقسیم صوبے میں بہتر انتظامیہ اور انتظامی کنٹرول کو یقینی بناتی ہے۔",
+    },
+  },
+  {
+    id: "113",
+    question: "What are the total divisions and districts of Baluchistan?",
+    options: [
+      "6 divisions and 32 districts",
+      "7 divisions and 31 districts",
+      "8 divisions and 33 districts",
+      "9 divisions and 34 districts",
+    ],
+    answer: "6 divisions and 32 districts",
+    explanation: {
+      en: "Baluchistan province is divided into 6 divisions and 32 districts. Baluchistan is the largest province by area in Pakistan.",
+      ur: "بلوچستان صوبہ 6 ڈویژنز اور 32 اضلاع میں تقسیم ہے۔ بلوچستان رقبے کے لحاظ سے پاکستان کا سب سے بڑا صوبہ ہے۔",
+    },
+  },
+  {
+    id: "114",
+    question: "What are the total divisions and districts of Azad Kashmir?",
+    options: [
+      "3 divisions and 8 districts",
+      "4 divisions and 7 districts",
+      "2 divisions and 9 districts",
+      "5 divisions and 10 districts",
+    ],
+    answer: "3 divisions and 8 districts",
+    explanation: {
+      en: "Azad Kashmir is divided into 3 divisions and 8 districts. This administrative structure facilitates local governance and development.",
+      ur: "آزاد کشمیر 3 ڈویژنوں اور 8 اضلاع میں تقسیم ہے۔ یہ انتظامی ساخت مقامی حکمرانی اور ترقی میں مددگار ہے۔",
+    },
+  },
+  {
+    id: "115",
+    question: "How many divisions are there in FATA?",
+    options: ["7", "6", "8", "9"],
+    answer: "7",
+    explanation: {
+      en: "The Federally Administered Tribal Areas (FATA) had 7 divisions before its merger with Khyber Pakhtunkhwa for administrative purposes.",
+      ur: "وفاق کے زیر انتظام قبائلی علاقوں (FATA) میں خیبر پختونخوا میں ضم ہونے سے پہلے 7 ڈویژنز تھے۔",
+    },
+  },
+  {
+    id: "116",
+    question: "What are the total divisions and districts of Gilgit?",
+    options: [
+      "2 divisions and 7 districts",
+      "3 divisions and 6 districts",
+      "1 division and 8 districts",
+      "4 divisions and 5 districts",
+    ],
+    answer: "2 divisions and 7 districts",
+    explanation: {
+      en: "Gilgit is divided into 2 divisions and 7 districts. This division supports better administrative management and development in the region.",
+      ur: "گلگت 2 ڈویژنوں اور 7 اضلاع میں تقسیم ہے۔ یہ تقسیم علاقے میں بہتر انتظامیہ اور ترقی کو سہارا دیتی ہے۔",
+    },
+  },
+  {
+    id: "117",
+    question: "What are the rivers of Punjab?",
+    options: [
+      "Jhelum, Chenab, Ravi, Sutlej",
+      "Indus, Hub, Mir Nadi",
+      "Swat, Bara, Chitral",
+      "Hangol, Nari, Bolan",
+    ],
+    answer: "Jhelum, Chenab, Ravi, Sutlej",
+    explanation: {
+      en: "The rivers of Punjab include Jhelum, Chenab, Ravi, and Sutlej. These rivers are vital for irrigation, drinking water, and supporting the ecosystem in the region.",
+      ur: "پنجاب کے دریاؤں میں جہلم، چناب، راوی اور ستلج شامل ہیں۔ یہ دریا آبپاشی، پینے کے پانی اور علاقے کے ماحولیاتی نظام کی حمایت کے لئے اہم ہیں۔",
+    },
+  },
+  {
+    id: "118",
+    question: "What are the rivers of Sindh?",
+    options: [
+      "Indus, Hub, Mir Nadi, Arl Nadi",
+      "Jhelum, Chenab, Ravi, Sutlej",
+      "Swat, Bara, Chitral, Zhob",
+      "Hangol, Nari, Bolan, Dasht",
+    ],
+    answer: "Indus, Hub, Mir Nadi, Arl Nadi",
+    explanation: {
+      en: "The rivers of Sindh include Indus, Hub, Mir Nadi, and Arl Nadi. These rivers play a crucial role in agriculture and water supply for the province.",
+      ur: "سندھ کے دریاؤں میں سندھ، حب، میر ندی، اور ارل ندی شامل ہیں۔ یہ دریا زراعت اور صوبے کی پانی کی فراہمی کے لئے اہم کردار ادا کرتے ہیں۔",
+    },
+  },
+  {
+    id: "119",
+    question: "What are the rivers of KPK?",
+    options: [
+      "Swat, Bara, Chitral, Zhob, Panjakora, Gomal, Kurram",
+      "Jhelum, Chenab, Ravi, Sutlej",
+      "Indus, Hub, Mir Nadi",
+      "Hangol, Nari, Bolan",
+    ],
+    answer: "Swat, Bara, Chitral, Zhob, Panjakora, Gomal, Kurram",
+    explanation: {
+      en: "The rivers of KPK include Swat, Bara, Chitral, Zhob, Panjakora, Gomal, and Kurram. These rivers are essential for the province's agriculture and hydropower generation.",
+      ur: "خیبر پختونخوا کے دریاؤں میں سوات، بارا، چترال، ژوب، پنجاکورا، گومل، اور کرم شامل ہیں۔ یہ دریا صوبے کی زراعت اور پن بجلی کی پیداوار کے لئے اہم ہیں۔",
+    },
+  },
+  {
+    id: "120",
+    question: "What are the rivers of Baluchistan?",
+    options: [
+      "Hangol, Nari, Bolan, Dasht, Mula, Rakhshan, Pashin Lora",
+      "Indus, Hub, Mir Nadi",
+      "Swat, Bara, Chitral",
+      "Jhelum, Chenab, Ravi, Sutlej",
+    ],
+    answer: "Hangol, Nari, Bolan, Dasht, Mula, Rakhshan, Pashin Lora",
+    explanation: {
+      en: "The rivers of Baluchistan include Hangol, Nari, Bolan, Dasht, Mula, Rakhshan, and Pashin Lora. These rivers are crucial for irrigation and supporting the local ecosystems.",
+      ur: "بلوچستان کے دریاؤں میں ہنگول، ناری، بولان، دشت، ملا، رخشان، اور پشین لورا شامل ہیں۔ یہ دریا آبپاشی اور مقامی ماحولیاتی نظام کی حمایت کے لئے اہم ہیں۔",
+    },
+  },
+  {
+    id: "121",
+    question:
+      "What was the population of Pakistan according to the 1998 Census?",
+    options: ["13.5 crore", "12.5 crore", "14.5 crore", "15 crore"],
+    answer: "13.5 crore",
+    explanation: {
+      en: "According to the 1998 Census, the population of Pakistan was 13.5 crore. This census provided critical data for planning and development purposes.",
+      ur: "1998 کی مردم شماری کے مطابق، پاکستان کی آبادی 13.5 کروڑ تھی۔ اس مردم شماری نے منصوبہ بندی اور ترقی کے مقاصد کے لئے اہم اعداد و شمار فراہم کیے۔",
+    },
+  },
+  {
+    id: "122",
+    question: "What percentage of Pakistan's area is covered by forests?",
+    options: ["5%", "10%", "7%", "3%"],
+    answer: "5%",
+    explanation: {
+      en: "Forests cover 5% of Pakistan's total area. These forests are vital for biodiversity, climate regulation, and providing resources for local communities.",
+      ur: "پاکستان کے کل رقبے کا 5% جنگلات پر مشتمل ہے۔ یہ جنگلات حیاتیاتی تنوع، موسمیاتی ضابطہ اور مقامی کمیونٹیز کے لئے وسائل فراہم کرنے کے لئے اہم ہیں۔",
+    },
+  },
+  {
+    id: "123",
+    question: "What is the K-2 mountain known for?",
+    options: [
+      "2nd largest mountain in the world",
+      "Largest mountain in Pakistan",
+      "Located in the Himalayas",
+      "Highest peak in Asia",
+    ],
+    answer: "2nd largest mountain in the world",
+    explanation: {
+      en: "K-2 is the 2nd largest mountain in the world, situated in the Karakoram Range. It stands at 8,611 meters (28,251 feet) and is also known as Godwin Austin.",
+      ur: "کے-2 دنیا کا دوسرا بڑا پہاڑ ہے، جو قراقرم سلسلے میں واقع ہے۔ یہ 8,611 میٹر (28,251 فٹ) بلند ہے اور اسے گوڈون آسٹن کے نام سے بھی جانا جاتا ہے۔",
+    },
+  },
+  {
+    id: "124",
+    question: "When was the first Constitution of Pakistan enacted?",
+    options: [
+      "23rd March 1956",
+      "14th August 1947",
+      "8th June 1962",
+      "12th April 1973",
+    ],
+    answer: "23rd March 1956",
+    explanation: {
+      en: "The first Constitution of Pakistan was enacted on 23rd March 1956. It had 234 Articles, 13 Parts, and 6 Schedules.",
+      ur: "پاکستان کا پہلا آئین 23 مارچ 1956 کو نافذ ہوا۔ اس میں 234 آرٹیکلز، 13 حصے اور 6 شیڈولز شامل تھے۔",
+    },
+  },
+  {
+    id: "125",
+    question: "When was the second Constitution of Pakistan enacted?",
+    options: [
+      "8th June 1962",
+      "23rd March 1956",
+      "12th April 1973",
+      "14th August 1947",
+    ],
+    answer: "8th June 1962",
+    explanation: {
+      en: "The second Constitution of Pakistan was enacted on 8th June 1962. It had 250 Articles, 3 Parts, and 3 Schedules.",
+      ur: "پاکستان کا دوسرا آئین 8 جون 1962 کو نافذ ہوا۔ اس میں 250 آرٹیکلز، 3 حصے اور 3 شیڈولز شامل تھے۔",
+    },
+  },
+  {
+    id: "126",
+    question: "When was the third Constitution of Pakistan enacted?",
+    options: [
+      "12th April 1973",
+      "23rd March 1956",
+      "8th June 1962",
+      "14th August 1947",
+    ],
+    answer: "12th April 1973",
+    explanation: {
+      en: "The third Constitution of Pakistan was enacted on 12th April 1973. It had 280 Articles, 12 Parts, and 7 Schedules, with 22 Amendments.",
+      ur: "پاکستان کا تیسرا آئین 12 اپریل 1973 کو نافذ ہوا۔ اس میں 280 آرٹیکلز، 12 حصے اور 7 شیڈولز شامل تھے، جن میں 22 ترامیم شامل ہیں۔",
+    },
+  },
+  {
+    id: "127",
+    question: "Who issued the Hadood Ordinance?",
+    options: [
+      "General Zia in 1979",
+      "General Ayub in 1965",
+      "General Musharraf in 2001",
+      "General Yahya in 1971",
+    ],
+    answer: "General Zia in 1979",
+    explanation: {
+      en: "The Hadood Ordinance was issued by General Zia-ul-Haq in 1979. It aimed to implement Islamic laws in Pakistan.",
+      ur: "حدود آرڈیننس جنرل ضیاء الحق نے 1979 میں جاری کیا تھا۔ اس کا مقصد پاکستان میں اسلامی قوانین کا نفاذ تھا۔",
+    },
+  },
+  {
+    id: "128",
+    question: "Who issued the Zakat and Usher Ordinance?",
+    options: [
+      "General Zia in 1980",
+      "General Ayub in 1965",
+      "General Musharraf in 2001",
+      "General Yahya in 1971",
+    ],
+    answer: "General Zia in 1980",
+    explanation: {
+      en: "The Zakat and Usher Ordinance was issued by General Zia-ul-Haq in 1980 to promote the collection and distribution of Zakat and Usher according to Islamic principles.",
+      ur: "زکوٰۃ اور عشر آرڈیننس جنرل ضیاء الحق نے 1980 میں جاری کیا تھا تاکہ اسلامی اصولوں کے مطابق زکوٰۃ اور عشر کی وصولی اور تقسیم کو فروغ دیا جا سکے۔",
+    },
+  },
+  {
+    id: "129",
+    question: "Who established the Federal Shariat Courts?",
+    options: [
+      "General Zia in 1980",
+      "General Ayub in 1965",
+      "General Musharraf in 2001",
+      "General Yahya in 1971",
+    ],
+    answer: "General Zia in 1980",
+    explanation: {
+      en: "The Federal Shariat Courts were established by General Zia-ul-Haq in 1980 to ensure that laws in Pakistan conform to Islamic teachings.",
+      ur: "وفاقی شرعی عدالتیں جنرل ضیاء الحق نے 1980 میں قائم کیں تاکہ پاکستان میں قوانین کو اسلامی تعلیمات کے مطابق یقینی بنایا جا سکے۔",
+    },
+  },
+  {
+    id: "130",
+    question: "Where is the Supreme Court of Pakistan situated?",
+    options: ["Islamabad", "Lahore", "Karachi", "Quetta"],
+    answer: "Islamabad",
+    explanation: {
+      en: "The Supreme Court of Pakistan is situated in Islamabad. It has registry branches in Lahore, Karachi, Quetta, and Peshawar. The current Chief Justice is Justice Gulzar Ahmed (2019).",
+      ur: "سپریم کورٹ آف پاکستان اسلام آباد میں واقع ہے۔ اس کی رجسٹری برانچیں لاہور، کراچی، کوئٹہ، اور پشاور میں ہیں۔ موجودہ چیف جسٹس جسٹس گلزار احمد ہیں (2019).",
+    },
+  },
+  {
+    id: "131",
+    question: "Where is the High Court Lahore situated?",
+    options: ["Lahore", "Islamabad", "Karachi", "Quetta"],
+    answer: "Lahore",
+    explanation: {
+      en: "The High Court Lahore is situated in Lahore. It has benches in Multan, Rawalpindi, and Bahawalpur. The current Chief Justice is Muhammad Qasim Khan (March 2020).",
+      ur: "ہائی کورٹ لاہور لاہور میں واقع ہے۔ اس کی بنچیں ملتان، راولپنڈی، اور بہاولپور میں ہیں۔ موجودہ چیف جسٹس محمد قاسم خان ہیں (مارچ 2020).",
+    },
+  },
+  {
+    id: "132",
+    question: "What does DCO stand for?",
+    options: [
+      "District Coordination Officer",
+      "Deputy Commissioner",
+      "District Monitoring Officer",
+      "Executive District Officer",
+    ],
+    answer: "District Coordination Officer",
+    explanation: {
+      en: "DCO stands for District Coordination Officer, an administrative position responsible for coordinating district-level government activities.",
+      ur: "ڈی سی او کا مطلب ڈسٹرکٹ کوآرڈینیشن آفیسر ہے، جو ضلع کی سطح پر حکومتی سرگرمیوں کے انتظام کا ذمہ دار ہوتا ہے۔",
+    },
+  },
+  {
+    id: "133",
+    question: "What does EDO stand for?",
+    options: [
+      "Executive District Officer",
+      "District Coordination Officer",
+      "Deputy Commissioner",
+      "District Monitoring Officer",
+    ],
+    answer: "Executive District Officer",
+    explanation: {
+      en: "EDO stands for Executive District Officer, an administrative position in charge of various district departments.",
+      ur: "ای ڈی او کا مطلب ایگزیکٹو ڈسٹرکٹ آفیسر ہے، جو مختلف ضلع کے محکموں کی نگرانی کرتا ہے۔",
+    },
+  },
+  {
+    id: "134",
+    question: "What does DC stand for?",
+    options: [
+      "Deputy Commissioner",
+      "District Coordination Officer",
+      "Executive District Officer",
+      "District Monitoring Officer",
+    ],
+    answer: "Deputy Commissioner",
+    explanation: {
+      en: "DC stands for Deputy Commissioner, a key administrative official in charge of district governance and administration.",
+      ur: "ڈی سی کا مطلب ڈپٹی کمشنر ہے، جو ضلع کے انتظام اور انتظامیہ کا ایک اہم عہدیدار ہے۔",
+    },
+  },
+  {
+    id: "135",
+    question: "What does DMO stand for?",
+    options: [
+      "District Monitoring Officer",
+      "Deputy Commissioner",
+      "District Coordination Officer",
+      "Executive District Officer",
+    ],
+    answer: "District Monitoring Officer",
+    explanation: {
+      en: "DMO stands for District Monitoring Officer, responsible for overseeing and monitoring various district-level activities and programs.",
+      ur: "ڈی ایم او کا مطلب ڈسٹرکٹ مانیٹرنگ آفیسر ہے، جو ضلع کی سطح پر مختلف سرگرمیوں اور پروگراموں کی نگرانی اور نگرانی کے لئے ذمہ دار ہے۔",
+    },
+  },
+  {
+    id: "136",
+    question: "What does DO stand for?",
+    options: [
+      "District Officer",
+      "Deputy Commissioner",
+      "District Coordination Officer",
+      "Executive District Officer",
+    ],
+    answer: "District Officer",
+    explanation: {
+      en: "DO stands for District Officer, an official responsible for specific administrative functions within a district.",
+      ur: "ڈی او کا مطلب ضلع افسر ہے، جو ضلع کے اندر مخصوص انتظامی افعال کے لئے ذمہ دار ہوتا ہے۔",
+    },
+  },
+  {
+    id: "137",
+    question: "What does DDO stand for?",
+    options: [
+      "Deputy District Officer",
+      "District Coordination Officer",
+      "Executive District Officer",
+      "Deputy Commissioner",
+    ],
+    answer: "Deputy District Officer",
+    explanation: {
+      en: "DDO stands for Deputy District Officer, an official assisting the District Officer in carrying out administrative tasks.",
+      ur: "ڈی ڈی او کا مطلب ڈپٹی ڈسٹرکٹ آفیسر ہے، جو ضلع افسر کی انتظامی کاموں میں مدد کرتا ہے۔",
+    },
+  },
+  {
+    id: "138",
+    question: "What does AC stand for?",
+    options: [
+      "Assistant Commissioner",
+      "District Coordination Officer",
+      "Executive District Officer",
+      "Deputy Commissioner",
+    ],
+    answer: "Assistant Commissioner",
+    explanation: {
+      en: "AC stands for Assistant Commissioner, an official responsible for assisting in the administration and governance of a district.",
+      ur: "اے سی کا مطلب اسسٹنٹ کمشنر ہے، جو ضلع کے انتظام اور حکمرانی میں مدد کے لئے ذمہ دار ہوتا ہے۔",
+    },
+  },
+  {
+    id: "139",
+    question: "What does TMO stand for?",
+    options: [
+      "Tehsil Municipal Officer",
+      "Town Management Officer",
+      "Territorial Management Officer",
+      "Tehsil Monitoring Officer",
+    ],
+    answer: "Tehsil Municipal Officer",
+    explanation: {
+      en: "TMO stands for Tehsil Municipal Officer, responsible for municipal administration and services at the tehsil level.",
+      ur: "ٹی ایم او کا مطلب تحصیل میونسپل آفیسر ہے، جو تحصیل کی سطح پر میونسپل انتظامیہ اور خدمات کا ذمہ دار ہوتا ہے۔",
+    },
+  },
+  {
+    id: "140",
+    question: "Where is Mohenjo Daro?",
+    options: [
+      "27 kilometers from Larkana, Sindh",
+      "Near Karachi, Sindh",
+      "In Punjab province",
+      "In Baluchistan province",
+    ],
+    answer: "27 kilometers from Larkana, Sindh",
+    explanation: {
+      en: "Mohenjo Daro is an ancient archaeological site located 27 kilometers from Larkana in Sindh province, Pakistan.",
+      ur: "موہنجو داڑو ایک قدیم آثار قدیمہ کا مقام ہے جو سندھ صوبہ پاکستان کے لارکانہ سے 27 کلومیٹر دور واقع ہے۔",
+    },
+  },
+  {
+    id: "141",
+    question: "Kishanganga is another name of which river?",
+    options: ["Neelum River", "Indus River", "Chenab River", "Jhelum River"],
+    answer: "Neelum River",
+    explanation: {
+      en: "Kishanganga is another name for the Neelum River, which flows through the Kashmir region.",
+      ur: "کشن گنگا ندی کا ایک اور نام نیلم ندی ہے، جو کشمیر کے علاقے سے گزرتی ہے۔",
+    },
+  },
+  {
+    id: "142",
+    question: "Where is Lal Qila?",
+    options: [
+      "Delhi, India",
+      "Lahore, Pakistan",
+      "Karachi, Pakistan",
+      "Agra, India",
+    ],
+    answer: "Delhi, India",
+    explanation: {
+      en: "Lal Qila, also known as the Red Fort, is a historic fort situated in Delhi, India.",
+      ur: "لال قلعہ، جسے ریڈ فورٹ بھی کہا جاتا ہے، دہلی، بھارت میں واقع ایک تاریخی قلعہ ہے۔",
+    },
+  },
+  {
+    id: "143",
+    question: "What is the meaning of the Urdu language?",
+    options: ["Lashkar", "Garden", "Book", "River"],
+    answer: "Lashkar",
+    explanation: {
+      en: "The word 'Urdu' means 'Lashkar' in Persian, referring to its origins as a language of the camp and military.",
+      ur: "لفظ 'اردو' فارسی میں 'لشکر' کا مطلب ہے، جو اس کے کیمپ اور فوج کی زبان کے طور پر آغاز کو ظاہر کرتا ہے۔",
+    },
+  },
+  {
+    id: "144",
+    question: "Who was the first poet of Urdu Ghazal?",
+    options: [
+      "Sultan Muhammad Qutb Shah",
+      "Mir Taqi Mir",
+      "Allama Iqbal",
+      "Ghalib",
+    ],
+    answer: "Sultan Muhammad Qutb Shah",
+    explanation: {
+      en: "Sultan Muhammad Qutb Shah is considered the first poet of Urdu Ghazal, a poetic form that has flourished in South Asia.",
+      ur: "سلطان محمد قطب شاہ کو اردو غزل کے پہلے شاعر کے طور پر مانا جاتا ہے، جو جنوبی ایشیا میں بہت مقبول ہوا۔",
+    },
+  },
+  {
+    id: "145",
+    question: "Who wrote 'Sassi Punnu' and 'Sohni Mahiwal'?",
+    options: [
+      "Hashim Shah and Fazal Shah",
+      "Mir Taqi Mir and Ghalib",
+      "Allama Iqbal and Faiz Ahmed Faiz",
+      "Bulleh Shah and Waris Shah",
+    ],
+    answer: "Hashim Shah and Fazal Shah",
+    explanation: {
+      en: "'Sassi Punnu' was written by Hashim Shah and 'Sohni Mahiwal' by Fazal Shah, both famous romantic folk tales from Punjab.",
+      ur: "'سسی پنوں' ہاشم شاہ نے لکھا تھا اور 'سوہنی مہینوال' فضل شاہ نے لکھا تھا، دونوں پنجاب کے مشہور رومانوی لوک کہانیاں ہیں۔",
+    },
+  },
+  {
+    id: "146",
+    question: "Who was the first poet of Punjab?",
+    options: ["Pir Waris Shah", "Bulleh Shah", "Sultan Bahu", "Shah Hussain"],
+    answer: "Pir Waris Shah",
+    explanation: {
+      en: "Pir Waris Shah is renowned as the first poet of Punjab, known for his epic poem 'Heer Ranjha'.",
+      ur: "پیر وارث شاہ پنجاب کے پہلے شاعر کے طور پر مشہور ہیں، جو اپنے رزمیہ نظم 'ہیر رانجھا' کے لئے جانے جاتے ہیں۔",
+    },
+  },
+  {
+    id: "147",
+    question: "Who was the first poet of Balochi?",
+    options: [
+      "Azad Jamal Baloch",
+      "Mir Gul Khan Nasir",
+      "Atta Shad",
+      "Ghani Khan",
+    ],
+    answer: "Azad Jamal Baloch",
+    explanation: {
+      en: "Azad Jamal Baloch is recognized as the first poet of Balochi literature, contributing significantly to its early development.",
+      ur: "آزاد جمال بلوچ بلوچی ادب کے پہلے شاعر کے طور پر تسلیم کیے جاتے ہیں، جنہوں نے اس کی ابتدائی ترقی میں نمایاں کردار ادا کیا۔",
+    },
+  },
+  {
+    id: "148",
+    question: "Who was the first poet of Sindhi?",
+    options: [
+      "Dr. Faria Muhammad Faqir",
+      "Shah Abdul Latif Bhittai",
+      "Sachal Sarmast",
+      "Shaikh Ayaz",
+    ],
+    answer: "Dr. Faria Muhammad Faqir",
+    explanation: {
+      en: "Dr. Faria Muhammad Faqir is considered the first poet of Sindhi literature, paving the way for many subsequent poets.",
+      ur: "ڈاکٹر فریا محمد فقیر سندھی ادب کے پہلے شاعر کے طور پر مانے جاتے ہیں، جنہوں نے بعد کے کئی شاعروں کے لئے راہ ہموار کی۔",
+    },
+  },
+  {
+    id: "149",
+    question: "Who was the first poet of Kashmiri?",
+    options: [
+      "Habba Khatoon",
+      "Sheikh Noor-ud-din Noorani",
+      "Mahjoor",
+      "Ghulam Ahmad Mahjoor",
+    ],
+    answer: "Habba Khatoon",
+    explanation: {
+      en: "Habba Khatoon is celebrated as the first poet of Kashmiri literature, known for her poignant and lyrical poetry.",
+      ur: "حبہ خاتون کشمیری ادب کی پہلی شاعرہ کے طور پر منائی جاتی ہیں، جو اپنی دلگداز اور گیتوں سے بھرپور شاعری کے لئے مشہور ہیں۔",
+    },
+  },
+  {
+    id: "150",
+    question: "Who wrote 'Musaddas-e-Hali'?",
+    options: [
+      "Maulana Altaf Hussain Hali",
+      "Allama Iqbal",
+      "Sir Syed Ahmed Khan",
+      "Mir Taqi Mir",
+    ],
+    answer: "Maulana Altaf Hussain Hali",
+    explanation: {
+      en: "'Musaddas-e-Hali' was written by Maulana Altaf Hussain Hali, an important literary work in Urdu literature.",
+      ur: "'مسدس حالی' مولانا الطاف حسین حالی نے لکھی تھی، جو اردو ادب میں ایک اہم ادبی کام ہے۔",
+    },
+  },
+  {
+    id: "151",
+    question: "When was the first Five-Year Plan initiated?",
+    options: ["1955-1960", "1947-1952", "1960-1965", "1970-1975"],
+    answer: "1955-1960",
+    explanation: {
+      en: "The first Five-Year Plan in Pakistan was initiated from 1955 to 1960 to promote economic development.",
+      ur: "پاکستان میں پہلا پانچ سالہ منصوبہ 1955 سے 1960 تک شروع کیا گیا تاکہ اقتصادی ترقی کو فروغ دیا جا سکے۔",
+    },
+  },
+  {
+    id: "152",
+    question: "When was the Election Commission of Pakistan established?",
+    options: ["1964", "1956", "1970", "1985"],
+    answer: "1964",
+    explanation: {
+      en: "The Election Commission of Pakistan was established in 1964 to oversee and conduct fair elections in the country.",
+      ur: "الیکشن کمیشن آف پاکستان 1964 میں قائم کیا گیا تھا تاکہ ملک میں منصفانہ انتخابات کی نگرانی اور انعقاد کیا جا سکے۔",
+    },
+  },
+  {
+    id: "153",
+    question:
+      "How many members were there in the National Assembly of Pakistan in 2018?",
+    options: ["342", "335", "350", "345"],
+    answer: "342",
+    explanation: {
+      en: "The National Assembly of Pakistan had 342 members in 2018, representing various constituencies across the country.",
+      ur: "پاکستان کی قومی اسمبلی میں 2018 میں 342 اراکین تھے جو ملک کے مختلف حلقوں کی نمائندگی کرتے ہیں۔",
+    },
+  },
+  {
+    id: "154",
+    question: "How many members were there in the Senate of Pakistan in 2018?",
+    options: ["104", "100", "108", "110"],
+    answer: "104",
+    explanation: {
+      en: "The Senate of Pakistan had 104 members in 2018, with equal representation from all provinces.",
+      ur: "پاکستان کی سینیٹ میں 2018 میں 104 اراکین تھے، جو تمام صوبوں کی مساوی نمائندگی کرتے ہیں۔",
+    },
+  },
+  {
+    id: "155",
+    question: "How many members were there in the Punjab Assembly in 2018?",
+    options: ["371", "350", "360", "380"],
+    answer: "371",
+    explanation: {
+      en: "The Punjab Assembly had 371 members in 2018, making it the largest provincial assembly in Pakistan.",
+      ur: "پنجاب اسمبلی میں 2018 میں 371 اراکین تھے، جو اسے پاکستان کی سب سے بڑی صوبائی اسمبلی بناتے ہیں۔",
+    },
+  },
+  {
+    id: "156",
+    question: "How many members were there in the Sindh Assembly in 2018?",
+    options: ["168", "170", "165", "175"],
+    answer: "168",
+    explanation: {
+      en: "The Sindh Assembly had 168 members in 2018, representing various constituencies in the Sindh province.",
+      ur: "سندھ اسمبلی میں 2018 میں 168 اراکین تھے جو سندھ صوبے کے مختلف حلقوں کی نمائندگی کرتے ہیں۔",
+    },
+  },
+  {
+    id: "157",
+    question: "How many members were there in the KPK Assembly in 2018?",
+    options: ["124", "120", "125", "130"],
+    answer: "124",
+    explanation: {
+      en: "The KPK Assembly had 124 members in 2018, representing the Khyber Pakhtunkhwa province.",
+      ur: "کے پی کے اسمبلی میں 2018 میں 124 اراکین تھے جو خیبر پختونخوا صوبے کی نمائندگی کرتے ہیں۔",
+    },
+  },
+  {
+    id: "158",
+    question:
+      "How many members were there in the Balochistan Assembly in 2018?",
+    options: ["65", "60", "70", "68"],
+    answer: "65",
+    explanation: {
+      en: "The Balochistan Assembly had 65 members in 2018, representing the sparsely populated Balochistan province.",
+      ur: "بلوچستان اسمبلی میں 2018 میں 65 اراکین تھے جو کم آبادی والے بلوچستان صوبے کی نمائندگی کرتے ہیں۔",
+    },
+  },
+  {
+    id: "159",
+    question:
+      "How many members were there in the Gilgit Baltistan Assembly in 2018?",
+    options: ["33", "30", "35", "40"],
+    answer: "33",
+    explanation: {
+      en: "The Gilgit Baltistan Assembly had 33 members in 2018, representing the region of Gilgit Baltistan.",
+      ur: "گلگت بلتستان اسمبلی میں 2018 میں 33 اراکین تھے جو گلگت بلتستان کے علاقے کی نمائندگی کرتے ہیں۔",
+    },
+  },
+  {
+    id: "160",
+    question:
+      "How many members were there in the Azad Kashmir Assembly in 2018?",
+    options: ["49", "45", "50", "55"],
+    answer: "49",
+    explanation: {
+      en: "The Azad Kashmir Assembly had 49 members in 2018, representing the Azad Jammu and Kashmir region.",
+      ur: "آزاد کشمیر اسمبلی میں 2018 میں 49 اراکین تھے جو آزاد جموں و کشمیر کے علاقے کی نمائندگی کرتے ہیں۔",
+    },
+  },
+  {
+    id: "161",
+    question:
+      "Which country was the first to accept Pakistan after its independence?",
+    options: ["Iran", "Saudi Arabia", "Turkey", "Egypt"],
+    answer: "Iran",
+    explanation: {
+      en: "Iran was the first country to officially recognize Pakistan after its independence in 1947.",
+      ur: "ایران 1947 میں پاکستان کی آزادی کے بعد اسے سرکاری طور پر تسلیم کرنے والا پہلا ملک تھا۔",
+    },
+  },
+  {
+    id: "162",
+    question:
+      "What is the minimum age required to become a Senator in Pakistan?",
+    options: ["30 years", "25 years", "35 years", "40 years"],
+    answer: "30 years",
+    explanation: {
+      en: "According to the Constitution of Pakistan, the minimum age required to become a Senator is 30 years.",
+      ur: "پاکستان کے آئین کے مطابق سینیٹر بننے کے لیے کم از کم عمر 30 سال ہے۔",
+    },
+  },
+  {
+    id: "163",
+    question:
+      "What is the minimum age required to become the Prime Minister of Pakistan?",
+    options: ["35 years", "30 years", "40 years", "45 years"],
+    answer: "35 years",
+    explanation: {
+      en: "The Constitution of Pakistan stipulates that the minimum age to become the Prime Minister is 35 years.",
+      ur: "پاکستان کے آئین کے مطابق وزیر اعظم بننے کے لیے کم از کم عمر 35 سال ہے۔",
+    },
+  },
+  {
+    id: "164",
+    question:
+      "What is the minimum age required to become the President of Pakistan?",
+    options: ["45 years", "40 years", "50 years", "35 years"],
+    answer: "45 years",
+    explanation: {
+      en: "To be eligible for the office of President of Pakistan, an individual must be at least 45 years old.",
+      ur: "پاکستان کے صدر کے عہدے کے لیے اہل ہونے کے لیے فرد کی عمر کم از کم 45 سال ہونی چاہیے۔",
+    },
+  },
+  {
+    id: "165",
+    question:
+      "What is the retirement age for a Justice of the High Court in Pakistan?",
+    options: ["62 years", "60 years", "65 years", "55 years"],
+    answer: "62 years",
+    explanation: {
+      en: "The retirement age for a Justice of the High Court in Pakistan is 62 years.",
+      ur: "پاکستان میں ہائی کورٹ کے جج کی ریٹائرمنٹ کی عمر 62 سال ہے۔",
+    },
+  },
+  {
+    id: "166",
+    question:
+      "What is the retirement age for a Justice of the Supreme Court in Pakistan?",
+    options: ["65 years", "60 years", "62 years", "70 years"],
+    answer: "65 years",
+    explanation: {
+      en: "A Justice of the Supreme Court in Pakistan retires at the age of 65 years.",
+      ur: "پاکستان میں سپریم کورٹ کے جج کی ریٹائرمنٹ کی عمر 65 سال ہے۔",
+    },
+  },
+  {
+    id: "167",
+    question:
+      "What were the periods of Martial Law imposed in Pakistan and their respective leaders?",
+    options: [
+      "1st: Ayub Khan (1958-1962), 2nd: Yahya Khan (1969-1971), 3rd: Zia-ul-Haq (1977-1988), 4th: Musharraf (1999-2002)",
+      "1st: Ayub Khan (1958-1962), 2nd: Zia-ul-Haq (1977-1988), 3rd: Musharraf (1999-2002), 4th: Yahya Khan (1969-1971)",
+      "1st: Yahya Khan (1969-1971), 2nd: Ayub Khan (1958-1962), 3rd: Musharraf (1999-2002), 4th: Zia-ul-Haq (1977-1988)",
+      "1st: Zia-ul-Haq (1977-1988), 2nd: Musharraf (1999-2002), 3rd: Ayub Khan (1958-1962), 4th: Yahya Khan (1969-1971)",
+    ],
+    answer:
+      "1st: Ayub Khan (1958-1962), 2nd: Yahya Khan (1969-1971), 3rd: Zia-ul-Haq (1977-1988), 4th: Musharraf (1999-2002)",
+    explanation: {
+      en: "Martial Law in Pakistan was imposed at four different times: 1st by Ayub Khan from 27th October 1958 to 8th June 1962, 2nd by Yahya Khan from 25th March 1969 to 20th December 1971, 3rd by Zia-ul-Haq from 5th July 1977 to 17th August 1988, and 4th by Musharraf from 12th October 1999 to 11th July 2002.",
+      ur: "پاکستان میں مارشل لاء چار مختلف مواقع پر لگایا گیا: 1) ایوب خان نے 27 اکتوبر 1958 سے 8 جون 1962 تک، 2) یحییٰ خان نے 25 مارچ 1969 سے 20 دسمبر 1971 تک، 3) ضیاء الحق نے 5 جولائی 1977 سے 17 اگست 1988 تک، اور 4) مشرف نے 12 اکتوبر 1999 سے 11 جولائی 2002 تک۔",
+    },
+  },
+  {
+    id: "168",
+    question:
+      "What are the boundaries of Pakistan with its neighboring countries?",
+    options: [
+      "Afghanistan: 2252 km, India: 1600 km (LoC 740 km), China: 592 km, Iran: 909 km",
+      "Afghanistan: 2100 km, India: 1500 km (LoC 800 km), China: 600 km, Iran: 920 km",
+      "Afghanistan: 2200 km, India: 1700 km (LoC 750 km), China: 600 km, Iran: 910 km",
+      "Afghanistan: 2300 km, India: 1650 km (LoC 730 km), China: 590 km, Iran: 900 km",
+    ],
+    answer:
+      "Afghanistan: 2252 km, India: 1600 km (LoC 740 km), China: 592 km, Iran: 909 km",
+    explanation: {
+      en: "Pakistan shares its boundaries with Afghanistan (2252 km), India (1600 km with 740 km LoC), China (592 km), and Iran (909 km).",
+      ur: "پاکستان کی سرحدیں افغانستان (2252 کلومیٹر)، بھارت (1600 کلومیٹر، جس میں 740 کلومیٹر LoC شامل ہے)، چین (592 کلومیٹر)، اور ایران (909 کلومیٹر) کے ساتھ ملتی ہیں۔",
+    },
+  },
+  {
+    id: "169",
+    question: "Where is Khanpur Dam situated?",
+    options: ["Haro River", "Indus River", "Chenab River", "Jhelum River"],
+    answer: "Haro River",
+    explanation: {
+      en: "The Khanpur Dam is situated on the Haro River in Pakistan.",
+      ur: "خانپور ڈیم پاکستان کے ہارو دریا پر واقع ہے۔",
+    },
+  },
+  {
+    id: "170",
+    question: "Which pass connects Peshawar with Chitral?",
+    options: ["Malakand Pass", "Lowari Pass", "Babusar Pass", "Khojak Pass"],
+    answer: "Malakand Pass",
+    explanation: {
+      en: "The Malakand Pass connects Peshawar with Chitral in Pakistan.",
+      ur: "مالاکنڈ پاس پشاور کو چترال سے ملاتا ہے۔",
+    },
+  },
+  {
+    id: "171",
+    question: "Which pass connects Chitral with Dir?",
+    options: ["Lowari Pass", "Babusar Pass", "Khojak Pass", "Bolan Pass"],
+    answer: "Lowari Pass",
+    explanation: {
+      en: "The Lowari Pass connects Chitral with Dir in Pakistan.",
+      ur: "لواری پاس چترال کو دیر سے ملاتا ہے۔",
+    },
+  },
+  {
+    id: "172",
+    question: "Which pass connects Abbottabad with Gilgit?",
+    options: ["Babusar Pass", "Khojak Pass", "Bolan Pass", "Gomal Pass"],
+    answer: "Babusar Pass",
+    explanation: {
+      en: "The Babusar Pass connects Abbottabad with Gilgit in Pakistan.",
+      ur: "بابوسر پاس ایبٹ آباد کو گلگت سے ملاتا ہے۔",
+    },
+  },
+  {
+    id: "173",
+    question: "Which pass connects Qila Abdullah with Chaman?",
+    options: ["Khojak Pass", "Bolan Pass", "Gomal Pass", "Lowari Pass"],
+    answer: "Khojak Pass",
+    explanation: {
+      en: "The Khojak Pass connects Qila Abdullah with Chaman in Pakistan.",
+      ur: "خوجک پاس قلعہ عبداللہ کو چمن سے ملاتا ہے۔",
+    },
+  },
+  {
+    id: "174",
+    question: "Which pass connects Quetta with Afghanistan?",
+    options: ["Bolan Pass", "Khojak Pass", "Gomal Pass", "Babusar Pass"],
+    answer: "Bolan Pass",
+    explanation: {
+      en: "The Bolan Pass connects Quetta with Afghanistan.",
+      ur: "بولان پاس کوئٹہ کو افغانستان سے ملاتا ہے۔",
+    },
+  },
+  {
+    id: "175",
+    question: "Which pass connects Dera Ismail Khan with Ghazni?",
+    options: ["Gomal Pass", "Bolan Pass", "Khojak Pass", "Lowari Pass"],
+    answer: "Gomal Pass",
+    explanation: {
+      en: "The Gomal Pass connects Dera Ismail Khan with Ghazni in Afghanistan.",
+      ur: "گومل پاس ڈیرہ اسماعیل خان کو غزنی سے ملاتا ہے۔",
+    },
+  },
+  {
+    id: "176",
+    question: "Who presented the ‘Poor Man’s Budget’ in 1946?",
+    options: [
+      "Liaquat Ali Khan",
+      "Quaid-e-Azam",
+      "Zulfikar Ali Bhutto",
+      "Ayub Khan",
+    ],
+    answer: "Liaquat Ali Khan",
+    explanation: {
+      en: "Liaquat Ali Khan presented the 'Poor Man’s Budget' in 1946, aimed at addressing the economic needs of the underprivileged.",
+      ur: "لیاقت علی خان نے 1946 میں 'غریبوں کا بجٹ' پیش کیا، جو محروم طبقے کی اقتصادی ضروریات کو پورا کرنے کے لیے تھا۔",
+    },
+  },
+  {
+    id: "177",
+    question: "In which year did Pakistan conduct its nuclear tests?",
+    options: ["1998", "1996", "1999", "2000"],
+    answer: "1998",
+    explanation: {
+      en: "Pakistan conducted its nuclear tests on 28th May 1998 in the Chaghi Hills.",
+      ur: "پاکستان نے 28 مئی 1998 کو چاغی ہلز میں اپنے جوہری تجربات کیے۔",
+    },
+  },
+  {
+    id: "178",
+    question:
+      "Maulana Zafar Ali Khan was the Chief Editor of which publication?",
+    options: ["Zamindar", "Daily Jang", "The Dawn", "The News"],
+    answer: "Zamindar",
+    explanation: {
+      en: "Maulana Zafar Ali Khan was the Chief Editor of the newspaper 'Zamindar'.",
+      ur: "مولانا ظفر علی خان 'زمین دار' اخبار کے چیف ایڈیٹر تھے۔",
+    },
+  },
+  {
+    id: "179",
+    question:
+      "Which country is the biggest market for Pakistan's exports and imports?",
+    options: ["USA", "China", "India", "UK"],
+    answer: "USA",
+    explanation: {
+      en: "The USA is the largest market for Pakistan's exports and imports.",
+      ur: "امریکہ پاکستان کی برآمدات اور درآمدات کا سب سے بڑا مارکیٹ ہے۔",
+    },
+  },
+  {
+    id: "180",
+    question: "Where is Mohenjo-Daro situated?",
+    options: ["Larkana District of Sindh", "Karachi", "Hyderabad", "Quetta"],
+    answer: "Larkana District of Sindh",
+    explanation: {
+      en: "Mohenjo-Daro is situated in the Larkana District of Sindh, Pakistan.",
+      ur: "موہنجو داڑو سندھ کے لاڑکانہ ضلع میں واقع ہے۔",
+    },
+  },
 ];
