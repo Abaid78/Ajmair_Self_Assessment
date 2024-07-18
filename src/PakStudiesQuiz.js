@@ -1628,8 +1628,8 @@ export const Pak_StudiesQuizData = [
     id: "129",
     question: "Who established the Federal Shariat Courts?",
     options: [
-      "General Zia in 1980",
       "General Ayub in 1965",
+      "General Zia in 1980",
       "General Musharraf in 2001",
       "General Yahya in 1971",
     ],
@@ -1642,7 +1642,7 @@ export const Pak_StudiesQuizData = [
   {
     id: "130",
     question: "Where is the Supreme Court of Pakistan situated?",
-    options: ["Islamabad", "Lahore", "Karachi", "Quetta"],
+    options: ["Quetta", "Lahore", "Karachi", "Islamabad"],
     answer: "Islamabad",
     explanation: {
       en: "The Supreme Court of Pakistan is situated in Islamabad. It has registry branches in Lahore, Karachi, Quetta, and Peshawar. The current Chief Justice is Justice Gulzar Ahmed (2019).",
@@ -1663,8 +1663,8 @@ export const Pak_StudiesQuizData = [
     id: "132",
     question: "What does DCO stand for?",
     options: [
-      "District Coordination Officer",
       "Deputy Commissioner",
+      "District Coordination Officer",
       "District Monitoring Officer",
       "Executive District Officer",
     ],
@@ -1693,10 +1693,10 @@ export const Pak_StudiesQuizData = [
     id: "134",
     question: "What does DC stand for?",
     options: [
-      "Deputy Commissioner",
+      "District Monitoring Officer",
       "District Coordination Officer",
       "Executive District Officer",
-      "District Monitoring Officer",
+      "Deputy Commissioner",
     ],
     answer: "Deputy Commissioner",
     explanation: {
@@ -1708,9 +1708,9 @@ export const Pak_StudiesQuizData = [
     id: "135",
     question: "What does DMO stand for?",
     options: [
-      "District Monitoring Officer",
-      "Deputy Commissioner",
       "District Coordination Officer",
+      "Deputy Commissioner",
+      "District Monitoring Officer",
       "Executive District Officer",
     ],
     answer: "District Monitoring Officer",
@@ -1723,8 +1723,8 @@ export const Pak_StudiesQuizData = [
     id: "136",
     question: "What does DO stand for?",
     options: [
-      "District Officer",
       "Deputy Commissioner",
+      "District Officer",
       "District Coordination Officer",
       "Executive District Officer",
     ],
@@ -1753,9 +1753,9 @@ export const Pak_StudiesQuizData = [
     id: "138",
     question: "What does AC stand for?",
     options: [
-      "Assistant Commissioner",
-      "District Coordination Officer",
       "Executive District Officer",
+      "District Coordination Officer",
+      "Assistant Commissioner",
       "Deputy Commissioner",
     ],
     answer: "Assistant Commissioner",
@@ -1769,9 +1769,9 @@ export const Pak_StudiesQuizData = [
     question: "What does TMO stand for?",
     options: [
       "Tehsil Municipal Officer",
+      "Tehsil Monitoring Officer",
       "Town Management Officer",
       "Territorial Management Officer",
-      "Tehsil Monitoring Officer",
     ],
     answer: "Tehsil Municipal Officer",
     explanation: {
@@ -1783,15 +1783,15 @@ export const Pak_StudiesQuizData = [
     id: "140",
     question: "Where is Mohenjo Daro?",
     options: [
-      "27 kilometers from Larkana, Sindh",
       "Near Karachi, Sindh",
       "In Punjab province",
       "In Baluchistan province",
+      "27 kilometers from Larkana, Sindh",
     ],
     answer: "27 kilometers from Larkana, Sindh",
     explanation: {
-      en: "Mohenjo Daro is an ancient archaeological site located 27 kilometers from Larkana in Sindh province, Pakistan.",
-      ur: "موہنجو داڑو ایک قدیم آثار قدیمہ کا مقام ہے جو سندھ صوبہ پاکستان کے لارکانہ سے 27 کلومیٹر دور واقع ہے۔",
+      en: "Mohenjo Daro is an ancient archaeological site located 27 kilometers from Larkana in Sindh province, Pakistan.Mohenjo-daro is an archaeological site in Larkana District, Sindh, Pakistan. Built c. 2500 BCE, it was the largest settlement of the ancient Indus Valley Civilisation, and one of the world's earliest major cities, contemporaneous with the civilizations of ancient Egypt, Mesopotamia, Minoan Crete, and Norte Chico",
+      ur: "موہنجو دڑو ایک قدیم آثار قدیمہ ہے جو پاکستان کے صوبہ سندھ میں لاڑکانہ سے 27 کلومیٹر کے فاصلے پر واقع ہے۔ تعمیر سی۔ 2500 قبل مسیح، یہ قدیم وادی سندھ کی تہذیب کی سب سے بڑی بستی تھی، اور دنیا کے ابتدائی بڑے شہروں میں سے ایک، قدیم مصر، میسوپوٹیمیا، منون کریٹ، اور نورٹ چیکو کی تہذیبوں کے ساتھ ہم عصر تھا۔",
     },
   },
   {
@@ -1808,8 +1808,8 @@ export const Pak_StudiesQuizData = [
     id: "142",
     question: "Where is Lal Qila?",
     options: [
-      "Delhi, India",
       "Lahore, Pakistan",
+      "Delhi, India",
       "Karachi, Pakistan",
       "Agra, India",
     ],
@@ -1833,8 +1833,8 @@ export const Pak_StudiesQuizData = [
     id: "144",
     question: "Who was the first poet of Urdu Ghazal?",
     options: [
-      "Sultan Muhammad Qutb Shah",
       "Mir Taqi Mir",
+      "Sultan Muhammad Qutb Shah",
       "Allama Iqbal",
       "Ghalib",
     ],
@@ -1848,9 +1848,9 @@ export const Pak_StudiesQuizData = [
     id: "145",
     question: "Who wrote 'Sassi Punnu' and 'Sohni Mahiwal'?",
     options: [
-      "Hashim Shah and Fazal Shah",
       "Mir Taqi Mir and Ghalib",
       "Allama Iqbal and Faiz Ahmed Faiz",
+      "Hashim Shah and Fazal Shah",
       "Bulleh Shah and Waris Shah",
     ],
     answer: "Hashim Shah and Fazal Shah",
@@ -1873,9 +1873,9 @@ export const Pak_StudiesQuizData = [
     id: "147",
     question: "Who was the first poet of Balochi?",
     options: [
-      "Azad Jamal Baloch",
       "Mir Gul Khan Nasir",
       "Atta Shad",
+      "Azad Jamal Baloch",
       "Ghani Khan",
     ],
     answer: "Azad Jamal Baloch",
@@ -1888,10 +1888,10 @@ export const Pak_StudiesQuizData = [
     id: "148",
     question: "Who was the first poet of Sindhi?",
     options: [
-      "Dr. Faria Muhammad Faqir",
       "Shah Abdul Latif Bhittai",
       "Sachal Sarmast",
       "Shaikh Ayaz",
+      "Dr. Faria Muhammad Faqir",
     ],
     answer: "Dr. Faria Muhammad Faqir",
     explanation: {
@@ -1903,9 +1903,9 @@ export const Pak_StudiesQuizData = [
     id: "149",
     question: "Who was the first poet of Kashmiri?",
     options: [
-      "Habba Khatoon",
       "Sheikh Noor-ud-din Noorani",
       "Mahjoor",
+      "Habba Khatoon",
       "Ghulam Ahmad Mahjoor",
     ],
     answer: "Habba Khatoon",
@@ -1942,7 +1942,7 @@ export const Pak_StudiesQuizData = [
   {
     id: "152",
     question: "When was the Election Commission of Pakistan established?",
-    options: ["1964", "1956", "1970", "1985"],
+    options: ["1970", "1956", "1964", "1985"],
     answer: "1964",
     explanation: {
       en: "The Election Commission of Pakistan was established in 1964 to oversee and conduct fair elections in the country.",
@@ -1953,7 +1953,7 @@ export const Pak_StudiesQuizData = [
     id: "153",
     question:
       "How many members were there in the National Assembly of Pakistan in 2018?",
-    options: ["342", "335", "350", "345"],
+    options: ["350", "335", "342", "345"],
     answer: "342",
     explanation: {
       en: "The National Assembly of Pakistan had 342 members in 2018, representing various constituencies across the country.",
@@ -1973,7 +1973,7 @@ export const Pak_StudiesQuizData = [
   {
     id: "155",
     question: "How many members were there in the Punjab Assembly in 2018?",
-    options: ["371", "350", "360", "380"],
+    options: ["360", "350", "371", "380"],
     answer: "371",
     explanation: {
       en: "The Punjab Assembly had 371 members in 2018, making it the largest provincial assembly in Pakistan.",
@@ -1983,7 +1983,7 @@ export const Pak_StudiesQuizData = [
   {
     id: "156",
     question: "How many members were there in the Sindh Assembly in 2018?",
-    options: ["168", "170", "165", "175"],
+    options: ["170", "168", "165", "175"],
     answer: "168",
     explanation: {
       en: "The Sindh Assembly had 168 members in 2018, representing various constituencies in the Sindh province.",
@@ -1993,7 +1993,7 @@ export const Pak_StudiesQuizData = [
   {
     id: "157",
     question: "How many members were there in the KPK Assembly in 2018?",
-    options: ["124", "120", "125", "130"],
+    options: ["130", "120", "125", "124"],
     answer: "124",
     explanation: {
       en: "The KPK Assembly had 124 members in 2018, representing the Khyber Pakhtunkhwa province.",
@@ -2004,7 +2004,7 @@ export const Pak_StudiesQuizData = [
     id: "158",
     question:
       "How many members were there in the Balochistan Assembly in 2018?",
-    options: ["65", "60", "70", "68"],
+    options: ["70", "60", "65", "68"],
     answer: "65",
     explanation: {
       en: "The Balochistan Assembly had 65 members in 2018, representing the sparsely populated Balochistan province.",
@@ -2026,7 +2026,7 @@ export const Pak_StudiesQuizData = [
     id: "160",
     question:
       "How many members were there in the Azad Kashmir Assembly in 2018?",
-    options: ["49", "45", "50", "55"],
+    options: ["45", "49", "50", "55"],
     answer: "49",
     explanation: {
       en: "The Azad Kashmir Assembly had 49 members in 2018, representing the Azad Jammu and Kashmir region.",
@@ -2037,7 +2037,7 @@ export const Pak_StudiesQuizData = [
     id: "161",
     question:
       "Which country was the first to accept Pakistan after its independence?",
-    options: ["Iran", "Saudi Arabia", "Turkey", "Egypt"],
+    options: ["Turkey", "Saudi Arabia", "Iran", "Egypt"],
     answer: "Iran",
     explanation: {
       en: "Iran was the first country to officially recognize Pakistan after its independence in 1947.",
@@ -2048,7 +2048,7 @@ export const Pak_StudiesQuizData = [
     id: "162",
     question:
       "What is the minimum age required to become a Senator in Pakistan?",
-    options: ["30 years", "25 years", "35 years", "40 years"],
+    options: ["40 years", "25 years", "35 years", "30 years"],
     answer: "30 years",
     explanation: {
       en: "According to the Constitution of Pakistan, the minimum age required to become a Senator is 30 years.",
