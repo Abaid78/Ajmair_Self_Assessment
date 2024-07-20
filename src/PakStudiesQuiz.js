@@ -2101,19 +2101,65 @@ export const Pak_StudiesQuizData = [
   },
   {
     id: "167",
-    question:
-      "What were the periods of Martial Law imposed in Pakistan and their respective leaders?",
+    question: "When was the 1st Martial Law imposed in Pakistan and by whom?",
     options: [
-      "1st: Ayub Khan (1958-1962), 2nd: Yahya Khan (1969-1971), 3rd: Zia-ul-Haq (1977-1988), 4th: Musharraf (1999-2002)",
-      "1st: Ayub Khan (1958-1962), 2nd: Zia-ul-Haq (1977-1988), 3rd: Musharraf (1999-2002), 4th: Yahya Khan (1969-1971)",
-      "1st: Yahya Khan (1969-1971), 2nd: Ayub Khan (1958-1962), 3rd: Musharraf (1999-2002), 4th: Zia-ul-Haq (1977-1988)",
-      "1st: Zia-ul-Haq (1977-1988), 2nd: Musharraf (1999-2002), 3rd: Ayub Khan (1958-1962), 4th: Yahya Khan (1969-1971)",
+      "25th March, 1969 by Muhammad Yahya Khan",
+      "5th July, 1977 by General Zia Ul Haq",
+      "27th October, 1958 by Field Martial Ayub Khan",
+      "12th October, 1999 by General Pervaiz Musharraf",
+    ],
+    answer: "27th October, 1958 by Field Martial Ayub Khan",
+    explanation: {
+      en: "The 1st Martial Law in Pakistan was imposed on 27th October, 1958 by Field Martial Ayub Khan.",
+      ur: "پاکستان میں پہلا مارشل لا 27 اکتوبر 1958 کو فیلڈ مارشل ایوب خان نے نافذ کیا۔",
+    },
+  },
+  {
+    id: "167a",
+    question: "Who imposed the 2nd Martial Law in Pakistan and when?",
+    options: [
+      "Field Martial Ayub Khan on 27th October, 1958",
+      "Muhammad Yahya Khan on 25th March, 1969",
+      "General Zia Ul Haq on 5th July, 1977",
+      "General Pervaiz Musharraf on 12th October, 1999",
+    ],
+    answer: "Muhammad Yahya Khan on 25th March, 1969",
+    explanation: {
+      en: "The 2nd Martial Law in Pakistan was imposed by Muhammad Yahya Khan on 25th March, 1969.",
+      ur: "پاکستان میں دوسرا مارشل لا 25 مارچ 1969 کو محمد یحییٰ خان نے نافذ کیا۔",
+    },
+  },
+  {
+    id: "167b",
+    question:
+      "During which period did General Zia Ul Haq impose Martial Law in Pakistan?",
+    options: [
+      "25th March, 1969 to 20th December, 1971",
+      "27th October, 1958 to 8th June, 1962",
+      "5th July, 1977 to 17th August, 1988",
+      "12th October, 1999 to 11th July, 2002",
+    ],
+    answer: "5th July, 1977 to 17th August, 1988",
+    explanation: {
+      en: "General Zia Ul Haq imposed Martial Law in Pakistan from 5th July, 1977 to 17th August, 1988.",
+      ur: "جنرل ضیاء الحق نے 5 جولائی 1977 سے 17 اگست 1988 تک پاکستان میں مارشل لا نافذ کیا۔",
+    },
+  },
+  {
+    id: "167c",
+    question:
+      "Who imposed the 4th Martial Law in Pakistan and what were the dates?",
+    options: [
+      "Field Martial Ayub Khan from 27th October, 1958 to 8th June, 1962",
+      "Muhammad Yahya Khan from 25th March, 1969 to 20th December, 1971",
+      "General Pervaiz Musharraf from 12th October, 1999 to 11th July, 2002",
+      "General Zia Ul Haq from 5th July, 1977 to 17th August, 1988",
     ],
     answer:
-      "1st: Ayub Khan (1958-1962), 2nd: Yahya Khan (1969-1971), 3rd: Zia-ul-Haq (1977-1988), 4th: Musharraf (1999-2002)",
+      "General Pervaiz Musharraf from 12th October, 1999 to 11th July, 2002",
     explanation: {
-      en: "Martial Law in Pakistan was imposed at four different times: 1st by Ayub Khan from 27th October 1958 to 8th June 1962, 2nd by Yahya Khan from 25th March 1969 to 20th December 1971, 3rd by Zia-ul-Haq from 5th July 1977 to 17th August 1988, and 4th by Musharraf from 12th October 1999 to 11th July 2002.",
-      ur: "پاکستان میں مارشل لاء چار مختلف مواقع پر لگایا گیا: 1) ایوب خان نے 27 اکتوبر 1958 سے 8 جون 1962 تک، 2) یحییٰ خان نے 25 مارچ 1969 سے 20 دسمبر 1971 تک، 3) ضیاء الحق نے 5 جولائی 1977 سے 17 اگست 1988 تک، اور 4) مشرف نے 12 اکتوبر 1999 سے 11 جولائی 2002 تک۔",
+      en: "The 4th Martial Law in Pakistan was imposed by General Pervaiz Musharraf from 12th October, 1999 to 11th July, 2002.",
+      ur: "پاکستان میں چوتھا مارشل لا 12 اکتوبر 1999 سے 11 جولائی 2002 تک جنرل پرویز مشرف نے نافذ کیا۔",
     },
   },
   {
@@ -2121,9 +2167,9 @@ export const Pak_StudiesQuizData = [
     question:
       "What are the boundaries of Pakistan with its neighboring countries?",
     options: [
+      "Afghanistan: 2200 km, India: 1700 km (LoC 750 km), China: 600 km, Iran: 910 km",
       "Afghanistan: 2252 km, India: 1600 km (LoC 740 km), China: 592 km, Iran: 909 km",
       "Afghanistan: 2100 km, India: 1500 km (LoC 800 km), China: 600 km, Iran: 920 km",
-      "Afghanistan: 2200 km, India: 1700 km (LoC 750 km), China: 600 km, Iran: 910 km",
       "Afghanistan: 2300 km, India: 1650 km (LoC 730 km), China: 590 km, Iran: 900 km",
     ],
     answer:
