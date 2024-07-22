@@ -2185,17 +2185,17 @@ export const Pak_StudiesQuizData = [
     options: ["Haro River", "Indus River", "Chenab River", "Jhelum River"],
     answer: "Haro River",
     explanation: {
-      en: "The Khanpur Dam is situated on the Haro River in Pakistan.",
-      ur: "خانپور ڈیم پاکستان کے ہارو دریا پر واقع ہے۔",
+      en: "Khanpur Dam is located on the Haro River in Khanpur, Khyber Pakhtunkhwa (KPK), Pakistan, about 50 kilometers from Islamabad. The dam was completed in 1983 and creates Khanpur Lake, a reservoir that supplies drinking water to Islamabad and Rawalpindi, and irrigation water to nearby agricultural and industrial areas. The dam also serves as a popular recreational spot for activities like boating, fishing, and camping.",
+      ur: "خانپور ڈیم اسلام آباد سے تقریباً 50 کلومیٹر کے فاصلے پر خانپور، خیبر پختونخواہ (KPK)، پاکستان میں دریائے ہارو پر واقع ہے۔ یہ ڈیم 1983 میں مکمل ہوا اور خان پور جھیل بناتا ہے، یہ ایک ذخیرہ ہے جو اسلام آباد اور راولپنڈی کو پینے کا پانی اور قریبی زرعی اور صنعتی علاقوں کو آبپاشی کا پانی فراہم کرتا ہے۔ یہ ڈیم کشتی رانی، ماہی گیری اور کیمپنگ جیسی سرگرمیوں کے لیے ایک مشہور تفریحی مقام کے طور پر بھی کام کرتا ہے۔",
     },
   },
   {
     id: "170",
     question: "Which pass connects Peshawar with Chitral?",
-    options: ["Malakand Pass", "Lowari Pass", "Babusar Pass", "Khojak Pass"],
+    options: ["Khojak Pass", "Lowari Pass", "Babusar Pass", "Malakand Pass"],
     answer: "Malakand Pass",
     explanation: {
-      en: "The Malakand Pass connects Peshawar with Chitral in Pakistan.",
+      en: "The Malakand Pass connects Peshawar with Chitral District in Pakistan's Khyber Pakhtunkhwa province. The pass is 4,468 ft (1,362 m) above sea level",
       ur: "مالاکنڈ پاس پشاور کو چترال سے ملاتا ہے۔",
     },
   },
@@ -2205,14 +2205,14 @@ export const Pak_StudiesQuizData = [
     options: ["Lowari Pass", "Babusar Pass", "Khojak Pass", "Bolan Pass"],
     answer: "Lowari Pass",
     explanation: {
-      en: "The Lowari Pass connects Chitral with Dir in Pakistan.",
-      ur: "لواری پاس چترال کو دیر سے ملاتا ہے۔",
+      en: "Lowari Pass (Urdu: درہ لواری), or Lowari Top, (el. 10,230 ft.) is a high mountain pass, connecting the regions of Chitral and Dir Upper within the Khyber-Pakhtunkhwa province of Pakistan.",
+      ur: "لواری پاس (اردو: درہ لواری)، یا لواری ٹاپ، (ایل. 10,230 فٹ) ایک بلند پہاڑی درہ ہے، جو پاکستان کے صوبہ خیبر پختونخوا کے اندر چترال اور دیر بالا کے علاقوں کو ملاتا ہے۔",
     },
   },
   {
     id: "172",
     question: "Which pass connects Abbottabad with Gilgit?",
-    options: ["Babusar Pass", "Khojak Pass", "Bolan Pass", "Gomal Pass"],
+    options: ["Bolan Pass", "Khojak Pass", "Babusar Pass", "Gomal Pass"],
     answer: "Babusar Pass",
     explanation: {
       en: "The Babusar Pass connects Abbottabad with Gilgit in Pakistan.",
@@ -2222,7 +2222,7 @@ export const Pak_StudiesQuizData = [
   {
     id: "173",
     question: "Which pass connects Qila Abdullah with Chaman?",
-    options: ["Khojak Pass", "Bolan Pass", "Gomal Pass", "Lowari Pass"],
+    options: ["Bolan Pass", "Khojak Pass", "Gomal Pass", "Lowari Pass"],
     answer: "Khojak Pass",
     explanation: {
       en: "The Khojak Pass connects Qila Abdullah with Chaman in Pakistan.",
@@ -2242,7 +2242,7 @@ export const Pak_StudiesQuizData = [
   {
     id: "175",
     question: "Which pass connects Dera Ismail Khan with Ghazni?",
-    options: ["Gomal Pass", "Bolan Pass", "Khojak Pass", "Lowari Pass"],
+    options: ["Bolan Pass", "Gomal Pass", "Khojak Pass", "Lowari Pass"],
     answer: "Gomal Pass",
     explanation: {
       en: "The Gomal Pass connects Dera Ismail Khan with Ghazni in Afghanistan.",
@@ -2253,10 +2253,10 @@ export const Pak_StudiesQuizData = [
     id: "176",
     question: "Who presented the ‘Poor Man’s Budget’ in 1946?",
     options: [
-      "Liaquat Ali Khan",
       "Quaid-e-Azam",
       "Zulfikar Ali Bhutto",
       "Ayub Khan",
+      "Liaquat Ali Khan",
     ],
     answer: "Liaquat Ali Khan",
     explanation: {
@@ -2278,7 +2278,7 @@ export const Pak_StudiesQuizData = [
     id: "178",
     question:
       "Maulana Zafar Ali Khan was the Chief Editor of which publication?",
-    options: ["Zamindar", "Daily Jang", "The Dawn", "The News"],
+    options: ["Daily Jang", "Zamindar", "The Dawn", "The News"],
     answer: "Zamindar",
     explanation: {
       en: "Maulana Zafar Ali Khan was the Chief Editor of the newspaper 'Zamindar'.",
@@ -2289,7 +2289,7 @@ export const Pak_StudiesQuizData = [
     id: "179",
     question:
       "Which country is the biggest market for Pakistan's exports and imports?",
-    options: ["USA", "China", "India", "UK"],
+    options: ["China", "USA", "India", "UK"],
     answer: "USA",
     explanation: {
       en: "The USA is the largest market for Pakistan's exports and imports.",
@@ -2304,6 +2304,98 @@ export const Pak_StudiesQuizData = [
     explanation: {
       en: "Mohenjo-Daro is situated in the Larkana District of Sindh, Pakistan.",
       ur: "موہنجو داڑو سندھ کے لاڑکانہ ضلع میں واقع ہے۔",
+    },
+  },
+  {
+    id: "205",
+    question: "When was the first Pakistani Postal Stamp issued?",
+    options: ["August 1947", "July 9, 1948", "March 1949", "January 1950"],
+    answer: "July 9, 1948",
+    explanation: {
+      en: "The first Pakistani postal stamp was issued on July 9, 1948, to commemorate the country's first Independence Day. The stamp featured a crescent and star with a leafy pattern, designed by renowned Pakistani artist Abdul Rehman Chughtai and approved by Quaid-i-Azam. The stamp was considered one of the most beautiful in the world.",
+      ur: "پہلا پاکستانی ڈاک ٹکٹ 9 جولائی 1948 کو ملک کے پہلے یوم آزادی کی یاد میں جاری کیا گیا تھا۔ اس ڈاک ٹکٹ پر ایک ہلال اور ستارے کے ساتھ پتوں کے نمونے تھے، جسے معروف پاکستانی مصور عبدالرحمٰن چغتائی نے ڈیزائن کیا تھا اور قائداعظم نے اس کی منظوری دی تھی۔ ڈاک ٹکٹ کو دنیا کی خوبصورت ترین ڈاک ٹکٹوں میں شمار کیا جاتا تھا۔",
+    },
+  },
+  {
+    id: "206",
+    question: "Who was the first Ambassador of Pakistan to the UNO?",
+    options: [
+      "Liaquat Ali Khan",
+      "Ahmad Shah Patres Bukhari",
+      "Zafrullah Khan",
+      "Iftikhar Ali Khan",
+    ],
+    answer: "Ahmad Shah Patres Bukhari",
+    explanation: {
+      en: "Ahmad Shah Patres Bukhari was the first Ambassador of Pakistan to the United Nations, representing the country on an international stage.",
+      ur: "احمد شاہ پطرس بخاری اقوام متحدہ میں پاکستان کے پہلے سفیر تھے، جو بین الاقوامی سطح پر ملک کی نمائندگی کرتے تھے۔",
+    },
+  },
+  {
+    id: "207",
+    question:
+      "When was the Transit Trade Agreement between Pakistan and Afghanistan signed?",
+    options: ["1955", "1965", "1975", "1985"],
+    answer: "1965",
+    explanation: {
+      en: "The Transit Trade Agreement between Pakistan and Afghanistan was signed in 1965, facilitating the movement of goods between the two countries.",
+      ur: "پاکستان اور افغانستان کے درمیان ٹرانزٹ ٹریڈ ایگریمنٹ 1965 میں دستخط ہوا، جس سے دونوں ممالک کے درمیان سامان کی نقل و حرکت آسان ہوئی۔",
+    },
+  },
+  {
+    id: "208",
+    question: "How many times has Pakistan won the hockey World Cup?",
+    options: ["Two", "Three", "Four", "Five"],
+    answer: "Four",
+    explanation: {
+      en: "Pakistan is one of the most successful national field hockey teams in the world with a record four Hockey World Cup wins (in 1971, 1978, 1982, and 1994). ",
+      ur: "پاکستان دنیا کی کامیاب ترین قومی فیلڈ ہاکی ٹیموں میں سے ایک ہے جس نے ریکارڈ چار ہاکی ورلڈ کپ جیتے ہیں (1971، 1978، 1982 اور 1994 میں)۔",
+    },
+  },
+  {
+    id: "209",
+    question:
+      "When was the Abdul Qadeer Khan Nuclear Research Laboratories set up in Kahuta?",
+    options: ["1974", "1975", "1976", "1977"],
+    answer: "1976",
+    explanation: {
+      en: "The Dr. A. Q. Khan Research Laboratories (KRL) was established in Kahuta, Pakistan in 1976. The laboratory is located in Punjab, a short distance from Rawalpindi",
+      ur: "ڈاکٹر اے کیو خان ​​ریسرچ لیبارٹریز (KRL) کہوٹہ، پاکستان میں 1976 میں قائم کی گئی تھی۔ لیبارٹری راولپنڈی سے تھوڑے فاصلے پر پنجاب میں واقع ہے۔",
+    },
+  },
+  {
+    id: "210",
+    question: "When was Muhammad Ali Jinnah awarded the title of Quaid-i-Azam?",
+    options: ["1935", "1936", "1937", "1938"],
+    answer: "1938",
+    explanation: {
+      en: "The title of Quaid e azam was given to Muhammad ali Jinnah by Maulana Mazharuddin Shaheed during annual meeting of muslim league at Patna in 1938.",
+      ur: "قائد اعظم کا خطاب مولانا مظہر الدین شہید نے 1938 میں پٹنہ میں مسلم لیگ کے سالانہ اجلاس کے دوران محمد علی جناح کو دیا تھا۔",
+    },
+  },
+  {
+    id: "211",
+    question: "When was the Radcliffe Award announced?",
+    options: [
+      "14th August 1947",
+      "15th August 1947",
+      "16th August 1947",
+      "17th August 1947",
+    ],
+    answer: "17th August 1947",
+    explanation: {
+      en: "The Radcliffe Award, which determined the boundary lines between India and Pakistan, was announced on 17th August 1947.",
+      ur: "ریڈکلف ایوارڈ، جس نے بھارت اور پاکستان کے درمیان سرحدی لکیروں کا تعین کیا، 17 اگست 1947 کو اعلان کیا گیا۔",
+    },
+  },
+  {
+    id: "212",
+    question: "When did Pakistan become a Republic?",
+    options: ["1953", "1954", "1955", "1956"],
+    answer: "1956",
+    explanation: {
+      en: "Pakistan became the Islamic Republic of Pakistan on March 23, 1956, after adopting a new constitution that abolished the monarchy. This day is celebrated as Pakistan Day, or Yaum-e-Pakistan, and is a national holiday that commemorates the transition from the Dominion of Pakistan to the Islamic Republic of Pakistan.",
+      ur: "پاکستان 23 مارچ 1956 کو بادشاہت کو ختم کرنے والے نئے آئین کو اپنانے کے بعد اسلامی جمہوریہ پاکستان بنا۔ اس دن کو یوم پاکستان، یا یوم پاکستان کے طور پر منایا جاتا ہے، اور یہ ایک قومی تعطیل ہے جو ڈومینین آف پاکستان سے اسلامی جمہوریہ پاکستان میں منتقلی کی یاد مناتی ہے۔",
     },
   },
 ];
