@@ -2398,4 +2398,278 @@ export const Pak_StudiesQuizData = [
       ur: "پاکستان 23 مارچ 1956 کو بادشاہت کو ختم کرنے والے نئے آئین کو اپنانے کے بعد اسلامی جمہوریہ پاکستان بنا۔ اس دن کو یوم پاکستان، یا یوم پاکستان کے طور پر منایا جاتا ہے، اور یہ ایک قومی تعطیل ہے جو ڈومینین آف پاکستان سے اسلامی جمہوریہ پاکستان میں منتقلی کی یاد مناتی ہے۔",
     },
   },
+  {
+    id: "213",
+    question: "Who took the oath from Muhammad Ali Jinnah?",
+    options: [
+      "Chief Justice of Lahore High Court, Justice Abdur Rasheed",
+      "Chief Justice of Pakistan, Justice Muneer",
+      "Chief Justice of India, Justice Harilal Kania",
+      "Chief Justice of Sindh High Court, Justice Gulzar",
+    ],
+    answer: "Chief Justice of Lahore High Court, Justice Abdur Rasheed",
+    explanation: {
+      en: "The oath of office for Muhammad Ali Jinnah as the Governor-General of Pakistan was administered by Chief Justice of Lahore High Court, Justice Abdur Rasheed, marking a significant event in the early days of Pakistan's independence.",
+      ur: "محمد علی جناح نے پاکستان کے گورنر جنرل کی حیثیت سے حلف لیا تھا جسے لاہور ہائی کورٹ کے چیف جسٹس، جسٹس عبدالرشید نے لیا تھا، جو پاکستان کی آزادی کے ابتدائی دنوں میں ایک اہم واقعہ تھا۔",
+    },
+  },
+  {
+    id: "214",
+    question: "Who was the longest-serving Chief Justice of Pakistan?",
+    options: [
+      "Justice A.R. Cornelius",
+      "Justice Iftikhar Muhammad Chaudhry",
+      "Justice Muhammad Munir",
+      "Justice Sajjad Ali Shah",
+    ],
+    answer: "Justice A.R. Cornelius",
+    explanation: {
+      en: "Justice A.R. Cornelius served as the Chief Justice of Pakistan for the longest period, contributing significantly to the development of the country's judicial system during his tenure.",
+      ur: "جسٹس اے آر کورنیلیس نے پاکستان کے چیف جسٹس کے طور پر سب سے طویل عرصے تک خدمات انجام دیں، اپنی مدت کے دوران ملک کے عدالتی نظام کی ترقی میں نمایاں کردار ادا کیا۔",
+    },
+  },
+  {
+    id: "215",
+    question: "What is the oldest news agency of Pakistan?",
+    options: [
+      "APP (Associated Press of Pakistan)",
+      "PPI (Pakistan Press International)",
+      "NNI (News Network International)",
+      "INP (Independent News Pakistan)",
+    ],
+    answer: "APP (Associated Press of Pakistan)",
+    explanation: {
+      en: "The oldest news agency in Pakistan is APP (Associated Press of Pakistan), which has been serving as a key source of news and information since its inception.",
+      ur: "پاکستان کی سب سے قدیم خبر رساں ایجنسی اے پی پی (ایسوسی ایٹڈ پریس آف پاکستان) ہے، جو اپنے آغاز سے ہی خبروں اور معلومات کا ایک اہم ذریعہ رہی ہے۔",
+    },
+  },
+  {
+    id: "216",
+    question: "Which university in Pakistan was founded before Independence?",
+    options: [
+      "The Punjab University",
+      "The University of Karachi",
+      "The University of Peshawar",
+      "The University of Sindh",
+    ],
+    answer: "The Punjab University",
+    explanation: {
+      en: "The Punjab University, established in 1882, is the oldest university in Pakistan and was founded before the country's independence, playing a vital role in the educational development of the region.",
+      ur: "پنجاب یونیورسٹی، جو 1882 میں قائم ہوئی، پاکستان کی سب سے پرانی یونیورسٹی ہے اور یہ ملک کی آزادی سے پہلے قائم ہوئی تھی، جو خطے کی تعلیمی ترقی میں اہم کردار ادا کرتی ہے۔",
+    },
+  },
+  {
+    id: "217",
+    question: "What is the present literacy rate in Pakistan?",
+    options: ["57%", "60%", "62%", "65%"],
+    answer: "57%",
+    explanation: {
+      en: "As of September 2023, Pakistan's literacy rate was 59.3%, according to Dawn. This is lower than the 62.3% rate reported by the Ministry of Federal Education and Professional Training, which would mean that 60 million people in Pakistan are illiterate. Literacy rates are even lower in rural areas and among women.",
+      ur: "ڈان کے مطابق، ستمبر 2023 تک، پاکستان کی شرح خواندگی 59.3 فیصد تھی۔ یہ وفاقی تعلیم اور پیشہ ورانہ تربیت کی وزارت کی طرف سے بتائی گئی 62.3 فیصد شرح سے کم ہے، جس کا مطلب یہ ہوگا کہ پاکستان میں 60 ملین لوگ ناخواندہ ہیں۔ دیہی علاقوں اور خواتین میں خواندگی کی شرح اور بھی کم ہے۔",
+    },
+  },
+  {
+    id: "218",
+    question: "Where was the minimum annual rainfall in Pakistan recorded?",
+    options: ["Nokkundi", "Quetta", "Chitral", "Gilgit"],
+    answer: "Nokkundi",
+    explanation: {
+      en: "The lowest annual rainfall in Pakistan is recorded in the southwestern areas of Balochistan province and the central region of Sindh province, with amounts ranging from 48–162.85 mm. Nok-kundi in Balochistan receives the least rainfall, averaging around 50 mm per year. The region has a hot desert climate with mild winters and very little rainfall throughout the year.",
+      ur: "پاکستان میں سب سے کم سالانہ بارش صوبہ بلوچستان کے جنوب مغربی علاقوں اور صوبہ سندھ کے وسطی علاقے میں ریکارڈ کی گئی ہے، جس کی مقدار 48-162.85 ملی میٹر ہے۔ بلوچستان میں نوک کنڈی میں سب سے کم بارش ہوتی ہے، جس کی اوسط تقریباً 50 ملی میٹر سالانہ ہوتی ہے۔ اس خطے میں گرم ریگستانی آب و ہوا ہے جس میں ہلکی سردیوں اور سال بھر بہت کم بارش ہوتی ہے۔",
+    },
+  },
+  {
+    id: "219",
+    question: "Where was the maximum annual rainfall in Pakistan recorded?",
+    options: ["Murree", "Islamabad", "Lahore", "Karachi"],
+    answer: "Murree",
+    explanation: {
+      en: "The maximum annual rainfall in Pakistan was recorded at Murree, a hill station known for its lush greenery and significant precipitation.",
+      ur: "پاکستان میں زیادہ سے زیادہ سالانہ بارش مری میں ریکارڈ کی گئی، جو اپنے سرسبز مناظر اور اہم بارش کے لیے مشہور ایک پہاڑی اسٹیشن ہے۔",
+    },
+  },
+  {
+    id: "220",
+    question:
+      "Among the world's largest cotton-growing countries, where does Pakistan stand?",
+    options: ["First", "Second", "Third", "Fourth"],
+    answer: "Fourth",
+    explanation: {
+      en: "As of July 2024, Pakistan is ranked fifth in the world for cotton production, after India, China, the USA, and Brazil. However, in February 2023, Pakistan dropped to seventh place due to flooding that damaged cotton crops. In 2022–2023, Pakistan produced 1,067 thousand metric tons of cotton, which is 4–5% of the global production.",
+      ur: "جولائی 2024 تک، پاکستان کپاس کی پیداوار میں بھارت، چین، امریکہ اور برازیل کے بعد دنیا میں پانچویں نمبر پر ہے۔ تاہم، فروری 2023 میں، پاکستان سیلاب کی وجہ سے ساتویں نمبر پر آ گیا جس نے کپاس کی فصل کو نقصان پہنچایا۔ 2022-2023 میں، پاکستان نے 1,067 ہزار میٹرک ٹن کپاس کی پیداوار کی، جو عالمی پیداوار کا 4-5% ہے۔",
+    },
+  },
+  {
+    id: "221",
+    question: "What is the length of the coastal line of Pakistan?",
+    options: ["900 KM", "1046 KM", "1200 KM", "1500 KM"],
+    answer: "1046 KM",
+    explanation: {
+      en: "Pakistan's coastline is 1,046 kilometers (650 miles) long, stretching along the Arabian Sea and the Gulf of Oman. The coastline is divided into two parts: the Sindh Coast (270 kilometers) and the Makran Coast (720 kilometers). The coastline is a strategic gateway for the country and is an important part of its economy, especially for the fishing industry.",
+      ur: "پاکستان کی ساحلی پٹی 1,046 کلومیٹر (650 میل) لمبی ہے، جو بحیرہ عرب اور خلیج عمان تک پھیلی ہوئی ہے۔ ساحلی پٹی کو دو حصوں میں تقسیم کیا گیا ہے: سندھ کا ساحل (270 کلومیٹر) اور مکران کا ساحل (720 کلومیٹر)۔ ساحلی پٹی ملک کے لیے ایک اسٹریٹجک گیٹ وے ہے اور اس کی معیشت کا ایک اہم حصہ ہے، خاص طور پر ماہی گیری کی صنعت کے لیے۔",
+    },
+  },
+  {
+    id: "222",
+    question: "How can the constitution of Pakistan be amended?",
+    options: [
+      "With a simple majority in Parliament",
+      "With a two-thirds majority in Parliament",
+      "By the President alone",
+      "By a national referendum",
+    ],
+    answer: "With a two-thirds majority in Parliament",
+    explanation: {
+      en: "The constitution of Pakistan can be amended with a two-thirds majority in both houses of Parliament, ensuring that any changes have substantial legislative support.",
+      ur: "پاکستان کے آئین میں ترمیم پارلیمنٹ کے دونوں ایوانوں میں دو تہائی اکثریت سے کی جا سکتی ہے، جس سے یہ یقینی بنایا جا سکتا ہے کہ کسی بھی تبدیلی کو قانون سازی کی زبردست حمایت حاصل ہے۔",
+    },
+  },
+  {
+    id: "223",
+    question: "Ranikot Fort is situated near which city?",
+    options: ["Karachi", "Larkana", "Hyderabad", "Sukkur"],
+    answer: "Hyderabad",
+    explanation: {
+      en: "Ranikot Fort, also known as 'The Great Wall of Sindh,' is located near Hyderabad, Sindh. It is one of the largest forts in the world, stretching over 32 kilometers.",
+      ur: "رانی کوٹ فورٹ، جسے 'دی گریٹ وال آف سندھ' بھی کہا جاتا ہے، حیدرآباد، سندھ کے قریب واقع ہے۔ یہ دنیا کے سب سے بڑے قلعوں میں سے ایک ہے، جو 32 کلومیٹر سے زیادہ پر پھیلا ہوا ہے۔",
+    },
+  },
+  {
+    id: "224",
+    question:
+      "The 24th parallel line is the boundary line declared between which two countries?",
+    options: [
+      "Pakistan and China",
+      "Pakistan and Afghanistan",
+      "Pakistan and India",
+      "Pakistan and Iran",
+    ],
+    answer: "Pakistan and India",
+    explanation: {
+      en: "The 24th parallel line was declared as the boundary line between Pakistan and India, marking an important demarcation in the history of both nations.",
+      ur: "24ویں متوازی لائن کو پاکستان اور بھارت کے درمیان سرحدی لکیر قرار دیا گیا، جو دونوں ممالک کی تاریخ میں ایک اہم حد بندی کی نشاندہی کرتا ہے۔",
+    },
+  },
+  {
+    id: "225",
+    question: "When was the Atomic Energy Commission of Pakistan established?",
+    options: ["1947", "1956", "1965", "1971"],
+    answer: "1956",
+    explanation: {
+      en: "The Atomic Energy Commission of Pakistan was established in 1956 to oversee the development and management of nuclear energy resources in the country.Prime Minister Huseyn Suhrawardy established the Pakistan Atomic Energy Commission (PAEC) in March 1956.",
+      ur: "پاکستان کا جوہری توانائی کمیشن 1956 میں ملک میں جوہری توانائی کے وسائل کی ترقی اور انتظام کی نگرانی کے لیے قائم کیا گیا تھا۔ وزیر اعظم حسین سہروردی نے مارچ 1956 میں پاکستان اٹامک انرجی کمیشن (PAEC) قائم کیا۔",
+    },
+  },
+  {
+    id: "226",
+    question: "When did General Zia-ul-Haq die in an air accident?",
+    options: [
+      "14th August, 1989",
+      "17th August, 1988",
+      "17th August, 1979",
+      "23rd August, 1988",
+    ],
+    answer: "17th August, 1988",
+    explanation: {
+      en: "General Zia-ul-Haq, the then President of Pakistan, died in an air accident on 17th August, 1988, a tragic event that significantly impacted the country's political landscape.",
+      ur: "جنرل ضیاء الحق، جو اس وقت پاکستان کے صدر تھے، 17 اگست 1988 کو ایک ہوائی حادثے میں انتقال کر گئے، جو ایک افسوسناک واقعہ تھا جس نے ملک کے سیاسی منظر نامے کو نمایاں طور پر متاثر کیا۔",
+    },
+  },
+  {
+    id: "227",
+    question:
+      "Who was the first President of Pakistan and the last Governor-General of Pakistan?",
+    options: ["Skander Mirza", "Liaquat Ali Khan", "Ayub Khan", "Yahya Khan"],
+    answer: "Skander Mirza",
+    explanation: {
+      en: "Iskander Mirza was the first President of Pakistan and the last Governor-General, playing a pivotal role during the transition period after the country gained independence.",
+      ur: "اسکندر مرزا پاکستان کے پہلے صدر اور آخری گورنر جنرل تھے، جنہوں نے ملک کے آزاد ہونے کے بعد عبوری دور میں اہم کردار ادا کیا۔",
+    },
+  },
+  {
+    id: "228",
+    question: "Who designed the first coin of Pakistan?",
+    options: ["Brandly", "Hafeez Jalandhari", "Abdul Majeed", "Chughtai"],
+    answer: "Brandly",
+    explanation: {
+      en: "The first coin of Pakistan was designed by Brandly, symbolizing the country's new beginning after gaining independence in 1947.",
+      ur: "پاکستان کا پہلا سکہ برانڈلی نے ڈیزائن کیا تھا، جو 1947 میں آزادی حاصل کرنے کے بعد ملک کے نئے آغاز کی علامت ہے۔",
+    },
+  },
+  {
+    id: "229",
+    question:
+      "When were the Ahmadis declared as a minority in the National Assembly?",
+    options: [
+      "7th September, 1973",
+      "7th September, 1974",
+      "7th September, 1975",
+      "7th September, 1976",
+    ],
+    answer: "7th September, 1974",
+    explanation: {
+      en: "The Ahmadis were declared as a minority in the National Assembly on 7th September, 1974, a significant legislative decision in Pakistan's history.",
+      ur: "احمدیوں کو 7 ستمبر 1974 کو قومی اسمبلی میں اقلیت قرار دیا گیا، جو پاکستان کی تاریخ میں ایک اہم قانون سازی کا فیصلہ ہے۔",
+    },
+  },
+  {
+    id: "230",
+    question: "When was the 'One Unit' scheme formed in Pakistan?",
+    options: ["1947", "1955", "1962", "1971"],
+    answer: "1955",
+    explanation: {
+      en: "The 'One Unit' scheme was formed in 1955 to merge the four provinces of West Pakistan into a single administrative unit. This policy aimed to reduce administrative expenses and promote unity among the provinces. It was later dissolved in 1970.",
+      ur: "'ون یونٹ' اسکیم 1955 میں تشکیل دی گئی تھی تاکہ مغربی پاکستان کے چار صوبوں کو ایک واحد انتظامی یونٹ میں ضم کیا جا سکے۔ اس پالیسی کا مقصد انتظامی اخراجات کو کم کرنا اور صوبوں کے درمیان اتحاد کو فروغ دینا تھا۔ اسے بعد میں 1970 میں تحلیل کر دیا گیا۔",
+    },
+  },
+  {
+    id: "231",
+    question: "When was Balochistan given the status of a province?",
+    options: ["1947", "1955", "1970", "1973"],
+    answer: "1970",
+    explanation: {
+      en: "Balochistan was given the status of a province in 1970. Prior to this, it was a Chief Commissioner's Province and then part of the 'One Unit' scheme. The change in status was part of the dissolution of the 'One Unit' system.",
+      ur: "بلوچستان کو 1970 میں صوبے کا درجہ دیا گیا۔ اس سے پہلے یہ چیف کمشنر کا صوبہ تھا اور پھر 'ون یونٹ' اسکیم کا حصہ تھا۔ اسٹیٹس میں تبدیلی 'ون یونٹ' نظام کے تحلیل کا حصہ تھی۔",
+    },
+  },
+  {
+    id: "232",
+    question: "What is the capital of Gilgit-Baltistan?",
+    options: ["Skardu", "Gilgit", "Hunza", "Chilas"],
+    answer: "Gilgit",
+    explanation: {
+      en: "The capital of Gilgit-Baltistan is Gilgit. It serves as the administrative and economic hub of the region, playing a crucial role in its governance and development.",
+      ur: "گلگت بلتستان کا دارالحکومت گلگت ہے۔ یہ خطے کا انتظامی اور اقتصادی مرکز ہے، جو اس کی حکمرانی اور ترقی میں اہم کردار ادا کرتا ہے۔",
+    },
+  },
+  {
+    id: "233",
+    question: "Where is Pakistan Steel Mill located?",
+    options: ["Lahore", "Islamabad", "Karachi", "Quetta"],
+    answer: "Karachi",
+    explanation: {
+      en: "Pakistan Steel Mill is located in Karachi. It is the largest industrial complex in Pakistan, established to produce steel and iron products to meet the country's needs.",
+      ur: "پاکستان اسٹیل مل کراچی میں واقع ہے۔ یہ پاکستان کا سب سے بڑا صنعتی کمپلیکس ہے، جو ملک کی ضروریات کو پورا کرنے کے لیے اسٹیل اور آئرن مصنوعات تیار کرنے کے لیے قائم کیا گیا ہے۔",
+    },
+  },
+  {
+    id: "234",
+    question: "When were banks nationalized in Pakistan?",
+    options: ["1965", "1972", "1974", "1976"],
+    answer: "1974",
+    explanation: {
+      en: "Banks were nationalized in Pakistan in 1974. This move was part of Prime Minister Zulfikar Ali Bhutto's broader policy to nationalize key industries to promote social welfare and economic stability.",
+      ur: "بینکوں کو 1974 میں پاکستان میں قومیا لیا گیا تھا۔ یہ اقدام وزیر اعظم ذوالفقار علی بھٹو کی اہم صنعتوں کو قومیا کر معاشرتی بہبود اور معاشی استحکام کو فروغ دینے کی وسیع تر پالیسی کا حصہ تھا۔",
+    },
+  },
+  {
+    id: "235",
+    question: "When did the Ojhri Camp incident take place?",
+    options: ["1985", "1986", "1987", "1988"],
+    answer: "1988",
+    explanation: {
+      en: "The Ojhri Camp disaster took place on April 10, 1988 at Ojhri Camp, a military storage center in Rawalpindi Cantonment, Rawalpindi, Punjab Province, Pakistan. The incident began with a low-density explosion, followed by a much larger one, which caused missiles and rockets to rain down in all directions. The disaster killed hundreds of people, but the exact cause remains unknown. The incident is still etched in the memories of residents of Rawalpindi and Islamabad",
+      ur: "اوجھڑی کیمپ کی تباہی 10 اپریل 1988 کو راولپنڈی کنٹونمنٹ، راولپنڈی، صوبہ پنجاب، پاکستان میں ایک فوجی ذخیرہ کرنے والے مرکز اوجھڑی کیمپ میں پیش آئی۔ یہ واقعہ کم کثافت والے دھماکے سے شروع ہوا، جس کے بعد ایک بہت بڑا دھماکہ ہوا، جس کی وجہ سے میزائل اور راکٹ چاروں طرف سے برس پڑے۔ اس تباہی میں سیکڑوں افراد ہلاک ہوئے، لیکن اصل وجہ ابھی تک معلوم نہیں ہو سکی۔ یہ واقعہ آج بھی راولپنڈی اور اسلام آباد کے مکینوں کی یادوں میں نقش ہے۔",
+    },
+  },
 ];
