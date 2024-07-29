@@ -2672,4 +2672,508 @@ export const Pak_StudiesQuizData = [
       ur: "اوجھڑی کیمپ کی تباہی 10 اپریل 1988 کو راولپنڈی کنٹونمنٹ، راولپنڈی، صوبہ پنجاب، پاکستان میں ایک فوجی ذخیرہ کرنے والے مرکز اوجھڑی کیمپ میں پیش آئی۔ یہ واقعہ کم کثافت والے دھماکے سے شروع ہوا، جس کے بعد ایک بہت بڑا دھماکہ ہوا، جس کی وجہ سے میزائل اور راکٹ چاروں طرف سے برس پڑے۔ اس تباہی میں سیکڑوں افراد ہلاک ہوئے، لیکن اصل وجہ ابھی تک معلوم نہیں ہو سکی۔ یہ واقعہ آج بھی راولپنڈی اور اسلام آباد کے مکینوں کی یادوں میں نقش ہے۔",
     },
   },
+  {
+    id: "236",
+    question: "Rawal Dam is near Islamabad on which river?",
+    options: ["Indus River", "Kurang River", "Jhelum River", "Sutlej River"],
+    answer: "Kurang River",
+    explanation: {
+      en: "Rawal Dam is located on the Korang River, which runs from the Margalla Hills in Islamabad, Pakistan. The dam was built in 1962 by the Punjab Government to address water shortages in the area. The Korang River, along with other small streams from the Margalla Hills, form Rawal Lake, an artificial reservoir that supplies water to the cities of Islamabad and Rawalpindi. The lake is located in an isolated section of the Village Malpur, Bani Gala, and Margalla Hills National Park. ",
+      ur: "راول ڈیم دریائے کورنگ پر واقع ہے جو اسلام آباد، پاکستان میں مارگلہ کی پہاڑیوں سے نکلتا ہے۔ یہ ڈیم 1962 میں پنجاب حکومت نے علاقے میں پانی کی قلت کو دور کرنے کے لیے بنایا تھا۔ دریائے کورنگ، مارگلہ کی پہاڑیوں سے دیگر چھوٹی ندیوں کے ساتھ مل کر راول جھیل بناتا ہے، جو ایک مصنوعی ذخائر ہے جو اسلام آباد اور راولپنڈی کے شہروں کو پانی فراہم کرتا ہے۔ یہ جھیل گاؤں مالپور، بنی گالہ اور مارگلہ ہلز نیشنل پارک کے الگ تھلگ حصے میں واقع ہے۔",
+    },
+  },
+  {
+    id: "237",
+    question: "The abbreviation 'ICT' stands for:",
+    options: [
+      "Islamabad Capital Territory",
+      "International Communication Technology",
+      "Information and Communication Technology",
+      "Inter-Country Transport",
+    ],
+    answer: "Islamabad Capital Territory",
+    explanation: {
+      en: "'ICT' stands for Islamabad Capital Territory. It is the federal territory of Pakistan that includes the capital city, Islamabad.",
+      ur: "'ICT' اسلام آباد کیپیٹل ٹیریٹری کے لیے استعمال ہوتا ہے۔ یہ پاکستان کا وفاقی علاقہ ہے جس میں دارالحکومت اسلام آباد شامل ہے۔",
+    },
+  },
+  {
+    id: "238",
+    question: "Madr-e-Millat Fatima Ali Jinnah died in:",
+    options: ["1965", "1966", "1967", "1968"],
+    answer: "1967",
+    explanation: {
+      en: "Madr-e-Millat Fatima Ali Jinnah, the sister of Quaid-e-Azam Muhammad Ali Jinnah and a prominent figure in Pakistan's independence movement, passed away in 1967.",
+      ur: "مادر ملت فاطمہ علی جناح، قائد اعظم محمد علی جناح کی بہن اور پاکستان کی آزادی کی تحریک کی ایک ممتاز شخصیت، 1967 میں انتقال کر گئیں۔",
+    },
+  },
+  {
+    id: "239",
+    question: "The Kargil incident happened in:",
+    options: ["1997", "1998", "1999", "2000"],
+    answer: "1999",
+    explanation: {
+      en: "The Kargil incident took place in 1999. It was a conflict between India and Pakistan in the Kargil district of Jammu and Kashmir, leading to significant military engagements and international diplomatic interventions.",
+      ur: "کارگل واقعہ 1999 میں پیش آیا۔ یہ جموں و کشمیر کے کارگل ضلع میں بھارت اور پاکستان کے درمیان ایک تنازعہ تھا، جس کے نتیجے میں اہم فوجی جھڑپیں اور بین الاقوامی سفارتی مداخلتیں ہوئیں۔",
+    },
+  },
+  {
+    id: "240",
+    question: "Soon Valley is located in:",
+    options: ["Attock", "Khushab", "Jhelum", "Mianwali"],
+    answer: "Khushab",
+    explanation: {
+      en: "Soon Valley is located in the Khushab district of Punjab, Pakistan. It is known for its beautiful lakes, forests, and natural landscapes, attracting tourists and nature enthusiasts.",
+      ur: "سون ویلی پنجاب، پاکستان کے ضلع خوشاب میں واقع ہے۔ یہ اپنی خوبصورت جھیلوں، جنگلات اور قدرتی مناظر کے لیے مشہور ہے، جو سیاحوں اور فطرت کے شوقین لوگوں کو اپنی طرف متوجہ کرتا ہے۔",
+    },
+  },
+  {
+    id: "241",
+    question: "Dadu is a district of which province?",
+    options: ["Punjab", "Sindh", "Balochistan", "Khyber Pakhtunkhwa"],
+    answer: "Sindh",
+    explanation: {
+      en: "Dadu is a district in the Sindh province of Pakistan. It is known for its agricultural productivity and historical sites.",
+      ur: "دادو پاکستان کے صوبہ سندھ کا ضلع ہے۔ یہ اپنی زرعی پیداوار اور تاریخی مقامات کے لیے جانا جاتا ہے۔",
+    },
+  },
+  {
+    id: "242",
+    question: "Manora is famous for:",
+    options: [
+      "Historical Sites",
+      "Naval Base",
+      "Natural Parks",
+      "Educational Institutes",
+    ],
+    answer: "Naval Base",
+    explanation: {
+      en: "Manora is famous for its naval base. Located near Karachi, it serves as an important strategic location for Pakistan's navy.",
+      ur: "منوڑہ اپنے بحری اڈے کے لیے مشہور ہے۔ یہ کراچی کے قریب واقع ہے اور پاکستان کی بحریہ کے لیے ایک اہم اسٹریٹجک مقام کے طور پر کام کرتا ہے۔",
+    },
+  },
+  {
+    id: "243",
+    question: "Gawadar is a seaport of which province?",
+    options: ["Sindh", "Balochistan", "Punjab", "Khyber Pakhtunkhwa"],
+    answer: "Balochistan",
+    explanation: {
+      en: "Gawadar is a seaport in the Balochistan province of Pakistan. It is a key part of the China-Pakistan Economic Corridor (CPEC) and plays a significant role in Pakistan's trade and economy.",
+      ur: "گوادر پاکستان کے صوبہ بلوچستان میں ایک بندرگاہ ہے۔ یہ چین پاکستان اقتصادی راہداری (CPEC) کا ایک اہم حصہ ہے اور پاکستان کی تجارت اور معیشت میں اہم کردار ادا کرتا ہے۔",
+    },
+  },
+  {
+    id: "244",
+    question: "Numal Lake is situated in:",
+    options: ["Attock", "Mianwali", "Rawalpindi", "Jhelum"],
+    answer: "Mianwali",
+    explanation: {
+      en: "Numal Lake is situated in Mianwali district of Punjab, Pakistan. It is a beautiful lake known for its scenic beauty and is a popular spot for fishing and boating.",
+      ur: "نمبل جھیل پنجاب، پاکستان کے ضلع میانوالی میں واقع ہے۔ یہ اپنی خوبصورتی کے لیے مشہور ہے اور ماہی گیری اور بوٹنگ کے لیے ایک مشہور مقام ہے۔",
+    },
+  },
+  {
+    id: "245",
+    question: "The latitude range of Punjab is:",
+    options: [
+      "24.35 to 31.15 N",
+      "26.75 to 33.05 N",
+      "27.42 to 34.02 N",
+      "29.10 to 35.20 N",
+    ],
+    answer: "27.42 to 34.02 N",
+    explanation: {
+      en: "The latitude range of Punjab is from 27.42 to 34.02 degrees North. This range covers the geographical span of the province from south to north.",
+      ur: "پنجاب کا طول بلد 27.42 سے 34.02 ڈگری شمال تک ہے۔ یہ حد صوبے کی جغرافیائی حد کو جنوب سے شمال تک محیط کرتی ہے۔",
+    },
+  },
+  {
+    id: "246",
+    question: "Which city in Pakistan is known as the 'City of Colleges'?",
+    options: ["Karachi", "Islamabad", "Lahore", "Peshawar"],
+    answer: "Lahore",
+    explanation: {
+      en: "Lahore is known as the 'City of Colleges' due to its large number of educational institutions. It is home to some of the most prestigious colleges and universities in Pakistan.",
+      ur: "لاہور کو 'کالجوں کا شہر' کہا جاتا ہے کیونکہ یہاں بڑی تعداد میں تعلیمی ادارے ہیں۔ یہ پاکستان کے کچھ مشہور ترین کالجوں اور یونیورسٹیوں کا گھر ہے۔",
+    },
+  },
+  {
+    id: "247",
+    question: "Which city is known as the 'City of Sports' in Pakistan?",
+    options: ["Lahore", "Sialkot", "Karachi", "Faisalabad"],
+    answer: "Sialkot",
+    explanation: {
+      en: "Sialkot is known as the 'City of Sports' due to its international reputation for manufacturing sports goods. The city produces a significant portion of the world's sports equipment, including cricket bats, footballs, and hockey sticks.",
+      ur: "سیالکوٹ کو 'کھیلوں کا شہر' کے طور پر جانا جاتا ہے کیونکہ یہ بین الاقوامی سطح پر کھیلوں کے سامان بنانے کے لیے مشہور ہے۔ یہ شہر دنیا کے ایک بڑے حصے کے کھیلوں کے سازوسامان تیار کرتا ہے، جن میں کرکٹ بیٹ، فٹبال اور ہاکی اسٹک شامل ہیں۔",
+    },
+  },
+  {
+    id: "248",
+    question: "Which city is known as the 'City of Flowers' in Pakistan?",
+    options: ["Islamabad", "Lahore", "Peshawar", "Quetta"],
+    answer: "Peshawar",
+    explanation: {
+      en: "Peshawar is known as the 'City of Flowers' because of its numerous gardens and parks that showcase a variety of flowers throughout the year.",
+      ur: "پشاور کو 'پھولوں کا شہر' کے طور پر جانا جاتا ہے کیونکہ یہاں بہت سے باغات اور پارکس ہیں جو سال بھر مختلف قسم کے پھولوں کی نمائش کرتے ہیں۔",
+    },
+  },
+  {
+    id: "249",
+    question:
+      "Which city in Pakistan is referred to as the 'City of Switzerland'?",
+    options: ["Murree", "Swat", "Nathia Gali", "Gilgit"],
+    answer: "Swat",
+    explanation: {
+      en: "Swat is often referred to as the 'City of Switzerland' due to its breathtaking natural beauty, lush green valleys, and serene landscapes that resemble those of Switzerland.",
+      ur: "سوات کو اکثر 'سوئٹزرلینڈ کا شہر' کہا جاتا ہے کیونکہ اس کی دلکش قدرتی خوبصورتی، سرسبز وادیاں اور پرسکون مناظر سوئٹزرلینڈ کی طرح ہیں۔",
+    },
+  },
+  {
+    id: "250",
+    question:
+      "Which city is known as the 'City of Lightening & Gateway of Pakistan'?",
+    options: ["Lahore", "Karachi", "Islamabad", "Quetta"],
+    answer: "Karachi",
+    explanation: {
+      en: "Karachi is known as the 'City of Lightening' for its vibrant nightlife and as the 'Gateway of Pakistan' because it is the main seaport and commercial hub of the country.",
+      ur: "کراچی کو اس کی پرجوش رات کی زندگی کے لیے 'روشنیوں کا شہر' اور ملک کی مرکزی بندرگاہ اور تجارتی مرکز ہونے کی وجہ سے 'گیٹ وے آف پاکستان' کہا جاتا ہے۔",
+    },
+  },
+  {
+    id: "251",
+    question:
+      "Which city is known as the 'Manchester of Pakistan' and 'City of Textile'?",
+    options: ["Karachi", "Lahore", "Faisalabad", "Sialkot"],
+    answer: "Faisalabad",
+    explanation: {
+      en: "Faisalabad is known as the 'Manchester of Pakistan' and 'City of Textile' due to its extensive textile industry. The city is a major hub for textile manufacturing and export.",
+      ur: "فیصل آباد کو اس کی وسیع ٹیکسٹائل صنعت کی وجہ سے 'پاکستان کا مانچسٹر' اور 'ٹیکسٹائل کا شہر' کہا جاتا ہے۔ یہ شہر ٹیکسٹائل مینوفیکچرنگ اور برآمدات کا ایک بڑا مرکز ہے۔",
+    },
+  },
+  {
+    id: "252",
+    question: "Which city is known as the 'City of Greeneries'?",
+    options: ["Lahore", "Islamabad", "Karachi", "Quetta"],
+    answer: "Islamabad",
+    explanation: {
+      en: "Islamabad is known as the 'City of Greeneries' due to its lush green landscapes, well-maintained parks, and tree-lined avenues. The city is planned with a focus on preserving natural beauty.",
+      ur: "اسلام آباد کو اس کے سرسبز و شاداب مناظر، خوبصورتی سے دیکھ بھال کیے گئے پارکس، اور درختوں سے بھرے راستوں کی وجہ سے 'سبزے کا شہر' کہا جاتا ہے۔ شہر کی منصوبہ بندی قدرتی خوبصورتی کو محفوظ رکھنے کے ساتھ کی گئی ہے۔",
+    },
+  },
+  {
+    id: "253",
+    question: "Which city is known as the 'City of Great Saints'?",
+    options: ["Multan", "Lahore", "Peshawar", "Karachi"],
+    answer: "Multan",
+    explanation: {
+      en: "Multan is known as the 'City of Great Saints' because it is home to many famous Sufi saints and their shrines, which attract devotees from all over the country.",
+      ur: "ملتان کو 'عظیم سنتوں کا شہر' کہا جاتا ہے کیونکہ یہ بہت سے مشہور صوفی بزرگوں اور ان کے مزارات کا گھر ہے، جو ملک بھر سے عقیدت مندوں کو اپنی طرف متوجہ کرتے ہیں۔",
+    },
+  },
+  {
+    id: "254",
+    question: "Which region is referred to as the 'Queen of Crops'?",
+    options: ["Sindh", "Punjab", "Balochistan", "Khyber Pakhtunkhwa"],
+    answer: "Punjab",
+    explanation: {
+      en: "Punjab is referred to as the 'Queen of Crops' due to its fertile land and high agricultural productivity. The region is known for producing a wide variety of crops, including wheat, rice, and sugarcane.",
+      ur: "پنجاب کو اس کی زرخیز زمین اور اعلیٰ زرعی پیداواری صلاحیت کی وجہ سے 'فصلوں کی ملکہ' کہا جاتا ہے۔ یہ علاقہ گندم، چاول اور گنا سمیت مختلف قسم کی فصلیں پیدا کرنے کے لیے جانا جاتا ہے۔",
+    },
+  },
+  {
+    id: "255",
+    question: "The Quaid-i-Azam was born in:",
+    options: [
+      "Jinnah House Lahore",
+      "Quaid-e-Azam Residency Ziarat",
+      "Awan-e-Saddar Islamabad",
+      "Wazir Mansion Karachi",
+    ],
+    answer: "Wazir Mansion Karachi",
+    explanation: {
+      en: "The Quaid-i-Azam, Muhammad Ali Jinnah, was born in Wazir Mansion Karachi. This place is now a national monument and museum dedicated to the life and achievements of Jinnah.",
+      ur: "قائد اعظم، محمد علی جناح، وزیر مینشن کراچی میں پیدا ہوئے۔ یہ جگہ اب جناح کی زندگی اور کامیابیوں کے لیے ایک قومی یادگار اور میوزیم ہے۔",
+    },
+  },
+  {
+    id: "256",
+    question: "Where are Shahbaz Airbase and Shamsi Airbase located?",
+    options: [
+      "Peshawar & Quetta",
+      "Karachi & Lahore",
+      "Islamabad & Rawalpindi",
+      "Jacobabad & Quetta",
+    ],
+    answer: "Jacobabad & Quetta",
+    explanation: {
+      en: "Shahbaz Airbase is located in Jacobabad and Shamsi Airbase is located in Quetta. Both airbases are significant for Pakistan's military operations and strategic defense.",
+      ur: "شہباز ایئربیس جیکب آباد میں واقع ہے اور شمسی ایئربیس کوئٹہ میں واقع ہے۔ دونوں ایئربیس پاکستان کی فوجی کارروائیوں اور اسٹریٹجک دفاع کے لیے اہم ہیں۔",
+    },
+  },
+  {
+    id: "257",
+    question:
+      "'In the Line of Fire' is the autobiography of which Pakistani leader?",
+    options: [
+      "Benazir Bhutto",
+      "Asif Ali Zardari",
+      "Pervez Musharraf",
+      "Imran Khan",
+    ],
+    answer: "Pervez Musharraf",
+    explanation: {
+      en: "'In the Line of Fire' is the autobiography of General Pervez Musharraf, former President and Chief of Army Staff of Pakistan. The book provides insights into his life, military career, and political experiences,and first published on September 25, 2006.",
+      ur: "'ان دی لائن آف فائر' پاکستان کے سابق صدر اور چیف آف آرمی سٹاف جنرل پرویز مشرف کی سوانح عمری ہے۔ کتاب ان کی زندگی، فوجی کیریئر اور سیاسی تجربات کے بارے میں بصیرت فراہم کرتی ہے، اور پہلی بار 25 ستمبر 2006 کو شائع ہوئی۔",
+    },
+  },
+  {
+    id: "258",
+    question: "Who is the author of 'The Idea of Pakistan'?",
+    options: [
+      "Liaquat Ali Khan",
+      "Stephen Philip Cohen",
+      "Ayesha Jalal",
+      "K.K. Aziz",
+    ],
+    answer: "Stephen Philip Cohen",
+    explanation: {
+      en: "'The Idea of Pakistan' is a famous book written by Stephen Philip Cohen. The book analyzes the historical and contemporary issues facing Pakistan and its future prospects.",
+      ur: "'دی آئیڈیا آف پاکستان' اسٹیفن فلپ کوہن کی لکھی ہوئی ایک مشہور کتاب ہے۔ یہ کتاب پاکستان کو درپیش تاریخی اور عصری مسائل اور اس کے مستقبل کے امکانات کا تجزیہ کرتی ہے۔",
+    },
+  },
+  {
+    id: "259",
+    question: "Who is the author of 'Pakistan, the Heart of Asia'?",
+    options: [
+      "Liaquat Ali Khan",
+      "Muhammad Ali Jinnah",
+      "Allama Iqbal",
+      "Zulfikar Ali Bhutto",
+    ],
+    answer: "Liaquat Ali Khan",
+    explanation: {
+      en: "'Pakistan, the Heart of Asia' is written by Liaquat Ali Khan in 1950, Pakistan's first Prime Minister. The book discusses the strategic importance of Pakistan in the Asian continent and its role in regional politics.",
+      ur: "'پاکستان، ایشیا کا دل' 1950 میں پاکستان کے پہلے وزیر اعظم لیاقت علی خان نے لکھا تھا۔ اس کتاب میں براعظم ایشیا میں پاکستان کی تزویراتی اہمیت اور علاقائی سیاست میں اس کے کردار پر بحث کی گئی ہے۔",
+    },
+  },
+  {
+    id: "260",
+    question: "Who is the author of 'Struggle for Pakistan'?",
+    options: [
+      "Ayesha Jalal",
+      "K.K. Aziz",
+      "Stephen Philip Cohen",
+      "Ishtiaq Husain Qureshi",
+    ],
+    answer: "Ishtiaq Husain Qureshi",
+    explanation: {
+      en: "'Struggle for Pakistan' is written by Ishtiaq Husain Qureshi. The book details the historical struggle for the creation of Pakistan and the challenges faced by the country post-independence.",
+      ur: "Struggle for Pakistan' کو اشتیاق حسین قریشی نے لکھا ہے۔ اس کتاب میں پاکستان کے قیام کے لیے تاریخی جدوجہد اور آزادی کے بعد ملک کو درپیش چیلنجز کی تفصیل دی گئی ہے۔",
+    },
+  },
+  {
+    id: "261",
+    question: "Who wrote 'Friends Not Masters: A Political Autobiography'?",
+    options: [
+      "Liaquat Ali Khan",
+      "Ayub Khan",
+      "Zulfikar Ali Bhutto",
+      "Pervez Musharraf",
+    ],
+    answer: "Ayub Khan",
+    explanation: {
+      en: "'Friends Not Masters: A Political Autobiography' is written by Ayub Khan, the second President of Pakistan. The book provides an account of his presidency and his vision for Pakistan's foreign policy.",
+      ur: "'فرینڈز ناٹ ماسٹرز: اے پولیٹیکل آٹو بائیوگرافی' ایوب خان، پاکستان کے دوسرے صدر نے لکھی ہے۔ یہ کتاب ان کی صدارت اور پاکستان کی خارجہ پالیسی کے لیے ان کے وژن کا بیان کرتی ہے۔",
+    },
+  },
+  {
+    id: "262",
+    question: "Who is the author of 'Daughter of the East'?",
+    options: [
+      "Fatima Jinnah",
+      "Benazir Bhutto",
+      "Begum Nusrat Bhutto",
+      "Asma Jahangir",
+    ],
+    answer: "Benazir Bhutto",
+    explanation: {
+      en: "'Daughter of the East' is written by Benazir Bhutto, the first female Prime Minister of Pakistan. The book is an autobiography that chronicles her life, political struggles, and the legacy of her family.",
+      ur: "'ڈاٹر آف دی ایسٹ' بے نظیر بھٹو، پاکستان کی پہلی خاتون وزیر اعظم نے لکھی ہے۔ یہ کتاب ان کی زندگی، سیاسی جدوجہد اور ان کے خاندان کی میراث کا بیان ہے۔",
+    },
+  },
+  {
+    id: "263",
+    question: "Who wrote 'Jinnah: The Creator of Pakistan'?",
+    options: [
+      "Liaquat Ali Khan",
+      "Hector Bolitho",
+      "Ayesha Jalal",
+      "Stanley Wolpert",
+    ],
+    answer: "Hector Bolitho",
+    explanation: {
+      en: "'Jinnah: The Creator of Pakistan' is written by Hector Bolitho. The book is a comprehensive biography of Muhammad Ali Jinnah, the founder of Pakistan, highlighting his political journey and leadership.",
+      ur: "'جناح: دی کریٹر آف پاکستان' ہیکٹر بولیتھو نے لکھی ہے۔ یہ کتاب محمد علی جناح، بانی پاکستان کی جامع سوانح عمری ہے، جو ان کے سیاسی سفر اور قیادت کو اجاگر کرتی ہے۔",
+    },
+  },
+  {
+    id: "264",
+    question: "Who wrote 'Constitutional Development of Pakistan'?",
+    options: ["G.W. Chaudhary", "A.K. Brohi", "K.K. Aziz", "Feroz Ahmed"],
+    answer: "G.W. Chaudhary",
+    explanation: {
+      en: "Constitutional Development in Pakistan was written by G. W. Choudhury and published in 1959 by Longmans, Green and Co. in Lahore. The book is available on Amazon and is also in the collections of the National Library of Australia and Vanderbilt University.",
+      ur: "پاکستان میں آئینی ترقی کو جی ڈبلیو چودھری نے لکھا اور 1959 میں لانگ مینز، گرین اینڈ کمپنی نے لاہور میں شائع کیا۔ یہ کتاب ایمیزون پر دستیاب ہے اور آسٹریلیا کی نیشنل لائبریری اور وینڈربلٹ یونیورسٹی کے مجموعوں میں بھی ہے۔",
+    },
+  },
+  {
+    id: "265",
+    question: "Who is the author of 'Shahnama-i-Islam'?",
+    options: [
+      "Allama Iqbal",
+      "Hafeez Jalandhari",
+      "Mirza Ghalib",
+      "Ahmad Nadeem Qasmi",
+    ],
+    answer: "Hafeez Jalandhari",
+    explanation: {
+      en: "'Shahnama-i-Islam' is written by Hafeez Jalandhari. It is a poetic narration of Islamic history, highlighting significant events and figures in the history of Islam.",
+      ur: "'شاہنامہ اسلام' حفیظ جالندھری نے لکھی ہے۔ یہ اسلامی تاریخ کی شاعرانہ بیان ہے، جو اسلام کی تاریخ میں اہم واقعات اور شخصیات کو اجاگر کرتی ہے۔",
+    },
+  },
+  {
+    id: "266",
+    question: "Who wrote 'Father of the Nation' (a biography of Quaid-e-Azam)?",
+    options: ["G. Allana", "Stanley Wolpert", "Hector Bolitho", "Ayesha Jalal"],
+    answer: "G. Allana",
+    explanation: {
+      en: "Quaid-e-Azam Jinnah The Story of a Nation is a book by G. Allana about Muhammad Ali Jinnah, the founder of Pakistan. It was published in 1967 and is part of the open source collection on the Internet Archive. Allana is the son of Sultan Ali Allana, an economist from a prominent Sindh family who was active in the Pakistan movement. His uncle, Ghulam Ali Allana, was a friend and biographer of Jinnah.",
+      ur: "قائداعظم جناح دی سٹوری آف اے نیشن پاکستان کے بانی محمد علی جناح کے بارے میں جی الانا کی ایک کتاب ہے۔ یہ 1967 میں شائع ہوا تھا اور انٹرنیٹ آرکائیو پر اوپن سورس کلیکشن کا حصہ ہے۔ الانا سندھ کے ایک ممتاز خاندان سے تعلق رکھنے والے ماہر معاشیات سلطان علی الانہ کے بیٹے ہیں جو تحریک پاکستان میں سرگرم تھے۔ ان کے چچا، غلام علی الانہ، جناح کے دوست اور سوانح نگار تھے۔",
+    },
+  },
+  {
+    id: "266a",
+    question: "Who is the author of the book 'Jinnah of Pakistan'?",
+    options: [
+      "Hector Bolitho",
+      "Stanley Wolpert",
+      "G. Allana",
+      "Sharif ud din Pirzada",
+    ],
+    answer: "Stanley Wolpert",
+    explanation: {
+      en: "'Jinnah of Pakistan' is a biography written by Stanley Wolpert. The book offers a comprehensive account of the life and contributions of Muhammad Ali Jinnah, the founder of Pakistan, and explores his role in the creation of the nation.",
+      ur: "'جناح آف پاکستان' اسٹینلے وولپرٹ کی لکھی ہوئی ایک سوانح عمری ہے۔ یہ کتاب محمد علی جناح کی زندگی اور خدمات کا جامع بیان فراہم کرتی ہے اور پاکستان کے قیام میں ان کے کردار کو اجاگر کرتی ہے۔",
+    },
+  },
+  {
+    id: "267",
+    question: "Who wrote 'Pakistan Nagazir'?",
+    options: [
+      "Liaquat Ali Khan",
+      "Syed Hassan Riaz",
+      "G.W. Chaudhary",
+      "Hafeez Jalandhari",
+    ],
+    answer: "Syed Hassan Riaz",
+    explanation: {
+      en: "'Pakistan Nagazir' is a book written by Syed Hassan Riaz. The title translates to 'Pakistan is Inevitable' and the book discusses the ideological foundations and the necessity of the creation of Pakistan.",
+      ur: "'پاکستان ناگزیر' سید حسن ریاض کی لکھی ہوئی کتاب ہے۔ اس کتاب کا عنوان پاکستان کے قیام کی نظریاتی بنیادوں اور ضرورت پر بحث کرتا ہے۔",
+    },
+  },
+  {
+    id: "268",
+    question: "Who is the author of 'Foundation of Pakistan'?",
+    options: [
+      "A.K. Brohi",
+      "Feroz Ahmed",
+      "G. Allana",
+      "Sharif ud din Pirzada",
+    ],
+    answer: "Sharif ud din Pirzada",
+    explanation: {
+      en: "'Foundation of Pakistan' is written by Sharif ud din Pirzada. The book explores the historical, political, and social factors that led to the creation of Pakistan in 1947.",
+      ur: "'فاؤنڈیشن آف پاکستان' شریف الدین پیرزادہ نے لکھی ہے۔ یہ کتاب 1947 میں پاکستان کے قیام کی تاریخی، سیاسی اور سماجی عوامل کی کھوج کرتی ہے۔",
+    },
+  },
+  {
+    id: "269",
+    question: "What was the old name of Faisalabad?",
+    options: ["Kolachi", "Lyalpur", "Montgomery", "Shalkot"],
+    answer: "Lyalpur",
+    explanation: {
+      en: "The old name of Faisalabad was Lyalpur. It was named after Sir James Lyall, a lieutenant governor of the Punjab. The name was changed to Faisalabad in 1979 in honor of King Faisal of Saudi Arabia.",
+      ur: "فیصل آباد کا پرانا نام لائل پور تھا۔ یہ نام پنجاب کے لیفٹیننٹ گورنر سر جیمز لائل کے نام پر رکھا گیا تھا۔ 1979 میں سعودی عرب کے بادشاہ فیصل کے اعزاز میں اس کا نام تبدیل کر کے فیصل آباد رکھ دیا گیا۔",
+    },
+  },
+  {
+    id: "270",
+    question: "What was the old name of Quetta?",
+    options: ["Lyalpur", "Shalkot", "Cambellpur", "Mahmoodpur"],
+    answer: "Shalkot",
+    explanation: {
+      en: "The old name of Quetta was Shalkot. The city was renamed Quetta by the British, derived from the Pashto word 'Kwatta' which means fort, referring to the region's fort-like appearance.",
+      ur: "کوئٹہ کا پرانا نام شالکوٹ تھا۔ برطانویوں نے اس شہر کا نام تبدیل کر کے کوئٹہ رکھا جو پشتو لفظ 'کواٹہ' سے ماخوذ ہے جس کا مطلب قلعہ ہے، جو اس علاقے کی قلعہ نما شکل کی طرف اشارہ کرتا ہے۔",
+    },
+  },
+  {
+    id: "271",
+    question: "What was the old name of Sahiwal?",
+    options: ["Lyalpur", "Montgomery", "Shalkot", "Cambellpur"],
+    answer: "Montgomery",
+    explanation: {
+      en: "The old name of Sahiwal was Montgomery. It was named after Sir Robert Montgomery, a lieutenant governor of Punjab. The name was changed to Sahiwal in 1966.",
+      ur: "ساہیوال کا پرانا نام مونٹگمری تھا۔ یہ نام پنجاب کے لیفٹیننٹ گورنر سر رابرٹ مونٹگمری کے نام پر رکھا گیا تھا۔ 1966 میں اس کا نام تبدیل کر کے ساہیوال رکھ دیا گیا۔",
+    },
+  },
+  {
+    id: "272",
+    question: "What was the old name of Lahore?",
+    options: ["Mahmoodpur", "Lyalpur", "Shalkot", "Cambellpur"],
+    answer: "Mahmoodpur",
+    explanation: {
+      en: "The old name of Lahore was Mahmoodpur. The name Lahore is derived from Lavapuri, the city of Lava in Sanskrit. However, during various periods it was also known as Mahmoodpur.",
+      ur: "لاہور کا پرانا نام محمودپور تھا۔ لاہور کا نام سنسکرت میں لاواپوری سے ماخوذ ہے، جو کہ لاوا کا شہر ہے۔ تاہم، مختلف ادوار میں اسے محمودپور بھی کہا جاتا تھا۔",
+    },
+  },
+  {
+    id: "273",
+    question: "What was the old name of Attock?",
+    options: ["Shalkot", "Cambellpur", "Lyalpur", "Mahmoodpur"],
+    answer: "Cambellpur",
+    explanation: {
+      en: "The old name of Attock was Cambellpur. It was named after Sir Colin Campbell, a British field marshal. The name was changed to Attock in 1978.",
+      ur: "اٹک کا پرانا نام کیمبل پور تھا۔ یہ نام برطانوی فیلڈ مارشل سر کولن کیمبل کے نام پر رکھا گیا تھا۔ 1978 میں اس کا نام تبدیل کر کے اٹک رکھ دیا گیا۔",
+    },
+  },
+  {
+    id: "274",
+    question: "What was the old name of Gujranwala?",
+    options: ["Lyalpur", "Khan Pur", "Montgomery", "Shalkot"],
+    answer: "Khan Pur",
+    explanation: {
+      en: "The old name of Gujranwala was KhanPur Sansi. The city was renamed Gujranwala due to the large number of Gujjar inhabitants in the region.",
+      ur: "گوجرانوالہ کا پرانا نام خان پور تھا۔ اس شہر کا نام گوجرانوالہ رکھا گیا کیونکہ اس علاقے میں بڑی تعداد میں گوجر آباد تھے۔",
+    },
+  },
+  {
+    id: "275",
+    question: "What was the old name of Karachi?",
+    options: ["Kolachi", "Mahmoodpur", "Lyalpur", "Cambellpur"],
+    answer: "Kolachi",
+    explanation: {
+      en: "The old name of Karachi was Kolachi. The name is derived from the local fisherwoman 'Mai Kolachi'. Karachi is now the largest city and the financial hub of Pakistan.",
+      ur: "کراچی کا پرانا نام کولاچی تھا۔ یہ نام مقامی مچھیرا عورت 'مائی کولاچی' سے ماخوذ ہے۔ کراچی اب پاکستان کا سب سے بڑا شہر اور مالیاتی مرکز ہے۔",
+    },
+  },
+  {
+    id: "276",
+    question: "What was the old name of Islamabad?",
+    options: ["Raji Shah", "Kolachi", "Shalkot", "Mahmoodpur"],
+    answer: "Raji Shah",
+    explanation: {
+      en: "The old name of Islamabad was Raji Shah. The name was changed when Islamabad was built as the new capital of Pakistan in the 1960s, designed to reflect the Islamic heritage.",
+      ur: "اسلام آباد کا پرانا نام راجی شاہ تھا۔ جب 1960 کی دہائی میں اسلام آباد کو پاکستان کا نیا دارالحکومت بنایا گیا تو اس کا نام اسلامی ورثے کی عکاسی کے لیے تبدیل کر کے اسلام آباد رکھ دیا گیا۔",
+    },
+  },
 ];
